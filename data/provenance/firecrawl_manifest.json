@@ -1,0 +1,702 @@
+[
+ {
+  "tag": "daakbangla",
+  "url": "",
+  "title": "Bengali Slangs – Daakbangla",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/daakbangla.md",
+  "chars": 8733
+ },
+ {
+  "tag": "daily_star_bazaira",
+  "url": "",
+  "title": "Bazaira Vasha: Dhakaiya Sobbasi and their language | The Daily Star",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/daily_star_bazaira.md",
+  "chars": 16787
+ },
+ {
+  "tag": "dhaka_tribune",
+  "url": "",
+  "title": "Dhaka Dictionary",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/dhaka_tribune.md",
+  "chars": 6550
+ },
+ {
+  "tag": "en_wiki_dhakaiya",
+  "url": "",
+  "title": "Dhakaiya Kutti dialect - Wikipedia",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/en_wiki_dhakaiya.md",
+  "chars": 32584
+ },
+ {
+  "tag": "languageshome_sylheti",
+  "url": "",
+  "title": "Learn Sylheti Online",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/languageshome_sylheti.md",
+  "chars": 11679
+ },
+ {
+  "tag": "languagetrainers",
+  "url": "",
+  "title": "Must-Know Bengali Phrases for All Occasions- Language Trainers UK Blog",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/languagetrainers.md",
+  "chars": 14383
+ },
+ {
+  "tag": "omniglot_sylheti",
+  "url": "",
+  "title": "Useful phrases in Sylheti",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/omniglot_sylheti.md",
+  "chars": 17134
+ },
+ {
+  "tag": "sib_slang_thread",
+  "url": "",
+  "title": " সাহায্যমূলক পোস্ট - আপনি কী বাংলা স্ল্যাং জানেন? প্লিজ এইখানে আসেন, সাহায্য করেন !  - ইকারুসের ডানা এর বাংলা ব্লগ । bangla blog | সামহোয়্যার ইন ব্লগ - বাঁধ ভাঙ্গার আওয়াজ",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/sib_slang_thread.md",
+  "chars": 19277
+ },
+ {
+  "tag": "talkpal_internet",
+  "url": "",
+  "title": "What is the vocabulary for internet slang in Bangladesh versus West Bengal? - Talkpal",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/talkpal_internet.md",
+  "chars": 14895
+ },
+ {
+  "tag": "bn_slang_list",
+  "url": "https://www.guruchandali.com/comment.php?topic=24571",
+  "title": "বুলবুলভাজা : বাংলা স্ল্যাং-একটি পাঠপ্রতিক্রিয়া - গুরুচণ্ডা৯",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_guruchandali_com_comment_php_topic_24571.md",
+  "chars": 27704
+ },
+ {
+  "tag": "bn_slang_list",
+  "url": "https://archive.org/details/Bangla_Slang_Samikkha_O_Abhidhan_2006",
+  "title": "Bangla Slang Samikkha O Abhidhan (2006) : অভ্র বসু (Abhra Bose)",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/archive_org_details_Bangla_Slang_Samikkha_O_Abhidhan_2006.md",
+  "chars": 15901
+ },
+ {
+  "tag": "bn_slang_list",
+  "url": "https://www.youtube.com/watch?v=Yn2mg46Vjhc",
+  "title": "Slang meaning in bengali/Slang শব্দের বাংলা ভাষায় অর্থ অথবা মানে ...",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_youtube_com_watch_v_Yn2mg46Vjhc.md",
+  "chars": 13276
+ },
+ {
+  "tag": "bn_slang_list",
+  "url": "https://www.amarboi.com/2016/05/bangla-slang-ahvro-basu.html",
+  "title": "বাংলা স্ল্যাং সমীক্ষা ও অভিধান - অভ্র বসু। - Amarboi.com",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_amarboi_com_2016_05_bangla_slang_ahvro_basu_html.md",
+  "chars": 2707
+ },
+ {
+  "tag": "bn_slang_list",
+  "url": "https://www.rokomari.com/book/136241/bangla-slazng-somikkha-o-ovidhan",
+  "title": "বাংলা স্ল্যাং (সমীক্ষা ও অভিধান): অভ্র বসু - Bangla Slazng (Somikkha ...",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_rokomari_com_book_136241_bangla_slazng_somikkha_o_ovidhan.md",
+  "chars": 42411
+ },
+ {
+  "tag": "bn_slang_list",
+  "url": "https://m.somewhereinblog.net/mobile/blog/icarusss/29879801",
+  "title": "আপনি কী বাংলা স্ল্যাং জানেন? প্লিজ এইখানে আসেন, সাহায্য করেন",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/m_somewhereinblog_net_mobile_blog_icarusss_29879801.md",
+  "chars": 6964
+ },
+ {
+  "tag": "bn_slang_list",
+  "url": "https://daakbangla.com/topic/bengali-slangs/",
+  "title": "Bengali Slangs – Daakbangla",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/daakbangla_com_topic_bengali_slangs_.md",
+  "chars": 8733
+ },
+ {
+  "tag": "bn_slang_list",
+  "url": "https://www.scribd.com/document/622419767/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%B8-%E0%A6%B2-%E0%A6%AF%E0%A6%BE%E0%A6%82-%E0%A6%B8%E0%A6%AE%E0%A7%80%E0%A6%95-%E0%A6%B7%E0%A6%BE-%E0%A6%93-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8-Bangla-Slang-Samikkha-O-Abhidhan-PDFDrive",
+  "title": "(Bangla Slang - Samikkha O Abhidhan) (PDFDrive) | PDF - Scribd",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_scribd_com_document_622419767_E0_A6_AC_E0_A6_BE_E0_A6_82_E0_A6_B2_E0_A6_BE_E.md",
+  "chars": 154612
+ },
+ {
+  "tag": "campus",
+  "url": "https://link.springer.com/article/10.1186/s40862-022-00129-6",
+  "title": "Exploring Bangladeshi university students' willingness to ...",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/link_springer_com_article_10_1186_s40862_022_00129_6.md",
+  "chars": 133274
+ },
+ {
+  "tag": "campus",
+  "url": "https://cornell.campusgroups.com/BSA/",
+  "title": "Bangladeshi Students Association | Cornell University",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/cornell_campusgroups_com_BSA_.md",
+  "chars": 3634
+ },
+ {
+  "tag": "campus",
+  "url": "https://college.harvard.edu/student-life/student-stories/finding-my-basha-home-harvard-bangladeshi",
+  "title": "Finding my BASHA (Home) at Harvard as a Bangladeshi",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/college_harvard_edu_student_life_student_stories_finding_my_basha_home_harvard_b.md",
+  "chars": 25515
+ },
+ {
+  "tag": "campus",
+  "url": "https://www.researchgate.net/publication/395384431_Language_Shift_in_Bangladesh_Are_Students_Abandoning_Bengali",
+  "title": "(PDF) Language Shift in Bangladesh: Are Students Abandoning Bengali?",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_researchgate_net_publication_395384431_Language_Shift_in_Bangladesh_Are_Stud.md",
+  "chars": 19660
+ },
+ {
+  "tag": "campus",
+  "url": "https://papers.ssrn.com/sol3/Delivery.cfm/4884610.pdf?abstractid=4884610&mirid=1",
+  "title": "[PDF] Exploring Bangla Language Slang",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/papers_ssrn_com_sol3_Delivery_cfm_4884610_pdf_abstractid_4884610_mirid_1.md",
+  "chars": 6524
+ },
+ {
+  "tag": "campus",
+  "url": "https://www.ashleyhajimirsadeghi.com/blog/studying-bengalibangla-as-an-american",
+  "title": "Studying Bengali/Bangla as an American College Student",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_ashleyhajimirsadeghi_com_blog_studying_bengalibangla_as_an_american.md",
+  "chars": 9110
+ },
+ {
+  "tag": "campus2",
+  "url": "https://www.youtube.com/watch?v=lAcFk8rjT7M",
+  "title": "CU Bengali 1st semester supply suggestions 2025 - YouTube",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_youtube_com_watch_v_lAcFk8rjT7M.md",
+  "chars": 17126
+ },
+ {
+  "tag": "campus2",
+  "url": "https://www.researchgate.net/publication/372808725_Bengali_Slang_detection_using_state-of-the-art_supervised_models_from_a_given_text",
+  "title": "(PDF) Bengali Slang detection using state-of-the-art supervised models ...",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_researchgate_net_publication_372808725_Bengali_Slang_detection_using_state_o.md",
+  "chars": 60546
+ },
+ {
+  "tag": "campus2",
+  "url": "https://papers.ssrn.com/sol3/Delivery.cfm/4884610.pdf?abstractid=4884610&mirid=1",
+  "title": "[PDF] Exploring Bangla Language Slang",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/papers_ssrn_com_sol3_Delivery_cfm_4884610_pdf_abstractid_4884610_mirid_1.md",
+  "chars": 6524
+ },
+ {
+  "tag": "campus2",
+  "url": "https://en.prothomalo.com/opinion/yqlu6ra7r7",
+  "title": "Documenting the dynamic slang of Dhaka in a dictionary",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/en_prothomalo_com_opinion_yqlu6ra7r7.md",
+  "chars": 8804
+ },
+ {
+  "tag": "campus2",
+  "url": "https://www.quora.com/How-do-you-reference-slang-in-academic-papers",
+  "title": "How do you reference slang in academic papers? - Quora",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_quora_com_How_do_you_reference_slang_in_academic_papers.md",
+  "chars": 17804
+ },
+ {
+  "tag": "campus2",
+  "url": "https://research.rug.nl/en/publications/low-resource-text-style-transfer-for-bangla-data-amp-models/",
+  "title": "Low-Resource Text Style Transfer for Bangla: Data & Models",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/research_rug_nl_en_publications_low_resource_text_style_transfer_for_bangla_data.md",
+  "chars": 11637
+ },
+ {
+  "tag": "campus2",
+  "url": "https://beei.org/index.php/EEI/article/view/4743",
+  "title": "Bengali Slang detection using state-of-the-art supervised models ...",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/beei_org_index_php_EEI_article_view_4743.md",
+  "chars": 2574
+ },
+ {
+  "tag": "campus2",
+  "url": "https://arxiv.org/abs/2602.16843",
+  "title": "Reference-Free Factual Consistency Evaluation for Bangla Summarization",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/arxiv_org_abs_2602_16843.md",
+  "chars": 7487
+ },
+ {
+  "tag": "chittagong",
+  "url": "https://en.wikipedia.org/wiki/Chittagonian_language",
+  "title": "Chittagonian language - Wikipedia",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/en_wikipedia_org_wiki_Chittagonian_language.md",
+  "chars": 86359
+ },
+ {
+  "tag": "chittagong",
+  "url": "https://en.wikivoyage.org/wiki/Chittagonian_phrasebook",
+  "title": "Chittagonian phrasebook – Travel guide at Wikivoyage",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/en_wikivoyage_org_wiki_Chittagonian_phrasebook.md",
+  "chars": 23690
+ },
+ {
+  "tag": "chittagong",
+  "url": "https://www.youtube.com/watch?v=jgO2UgkFjk8",
+  "title": "Chittagonian: Language, Identity, and the Spirit of Chittagong - YouTube",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_youtube_com_watch_v_jgO2UgkFjk8.md",
+  "chars": 22643
+ },
+ {
+  "tag": "chittagong",
+  "url": "https://www.researchgate.net/publication/311564350_Chittagonian_Variety_Dialect_Language_or_Semi-Language",
+  "title": "(PDF) Chittagonian Variety: Dialect, Language, or Semi-Language?",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_researchgate_net_publication_311564350_Chittagonian_Variety_Dialect_Language.md",
+  "chars": 74137
+ },
+ {
+  "tag": "chittagong",
+  "url": "https://wikitravel.org/en/Chittagonian_phrasebook",
+  "title": "Chittagonian phrasebook - Wikitravel",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/wikitravel_org_en_Chittagonian_phrasebook.md",
+  "chars": 13056
+ },
+ {
+  "tag": "dhakaiya",
+  "url": "https://bn.wikipedia.org/wiki/%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%87%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A7%81%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%BF_%E0%A6%89%E0%A6%AA%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE",
+  "title": "ঢাকাইয়া কুট্টি উপভাষা - উইকিপিডিয়া",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/bn_wikipedia_org_wiki_E0_A6_A2_E0_A6_BE_E0_A6_95_E0_A6_BE_E0_A6_87_E0_A6_AF_E0_A.md",
+  "chars": 52647
+ },
+ {
+  "tag": "dhakaiya",
+  "url": "https://www.ajkerpatrika.com/bishesh/ajpky7vptcoxv",
+  "title": "ঢাকাইয়া ভাষা: 'সোব্বাসীতে' সংকোচ, 'কুট্টিতে' অনীহা তরুণদের - Ajker Patrika",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_ajkerpatrika_com_bishesh_ajpky7vptcoxv.md",
+  "chars": 15903
+ },
+ {
+  "tag": "dhakaiya",
+  "url": "https://www.youtube.com/watch?v=CbgLZFtIGa0",
+  "title": "ঢাকাইয়াদের ভাষা তাহলে কোনটা? | Old Dhaka's Original Language | চলতি",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_youtube_com_watch_v_CbgLZFtIGa0.md",
+  "chars": 16291
+ },
+ {
+  "tag": "dhakaiya",
+  "url": "https://www.prothomalo.com/onnoalo/treatise/%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%87%E0%A7%9F%E0%A6%BE-%E0%A6%B8%E0%A7%8B%E0%A6%AC%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%BF-%E0%A6%93-%E0%A6%A4%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE",
+  "title": "ঢাকাইয়া সোব্বাসি ও তাদের ভাষা - Prothom Alo",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_prothomalo_com_onnoalo_treatise_E0_A6_A2_E0_A6_BE_E0_A6_95_E0_A6_BE_E0_A6_87.md",
+  "chars": 16268
+ },
+ {
+  "tag": "dhakaiya",
+  "url": "https://ypfbd.org/aro-bak-aro-bhasha-dhakaiya/",
+  "title": "আরও বাক, আরও ভাষাঃ ঢাকাইয়া ভাষার ইতিহাস ও পরিচয় - Youth Policy Forum",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/ypfbd_org_aro_bak_aro_bhasha_dhakaiya_.md",
+  "chars": 3774
+ },
+ {
+  "tag": "en_slang",
+  "url": "https://www.languagetrainers.co.uk/blog/must-know-bengali-phrases-for-all-occasions/",
+  "title": "Must-Know Bengali Phrases for All Occasions - Language Trainers UK",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_languagetrainers_co_uk_blog_must_know_bengali_phrases_for_all_occasions_.md",
+  "chars": 14383
+ },
+ {
+  "tag": "en_slang",
+  "url": "https://www.quora.com/What-are-common-Bengali-slangs-used-commonly-in-Kolkata-India",
+  "title": "What are common Bengali slangs used commonly in Kolkata, India?",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_quora_com_What_are_common_Bengali_slangs_used_commonly_in_Kolkata_India.md",
+  "chars": 13335
+ },
+ {
+  "tag": "en_slang",
+  "url": "https://www.scribd.com/document/458245273/Bengali-slang-words-with-meaning-Bengali-pdf",
+  "title": "Bengali Slang Words and Meanings | PDF - Scribd",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_scribd_com_document_458245273_Bengali_slang_words_with_meaning_Bengali_pdf.md",
+  "chars": 32643
+ },
+ {
+  "tag": "en_slang",
+  "url": "https://ling-app.com/blog/bengali-slang-words/",
+  "title": "10 Bengali Slang Words For Everyday Conversations - ling-app.com",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/ling_app_com_blog_bengali_slang_words_.md",
+  "chars": 25717
+ },
+ {
+  "tag": "en_slang",
+  "url": "https://www.youtube.com/watch?v=LlfH-kPIt6c",
+  "title": "English Slang Words With Bangla Meaning - YouTube",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_youtube_com_watch_v_LlfH_kPIt6c.md",
+  "chars": 33409
+ },
+ {
+  "tag": "en_slang",
+  "url": "https://preply.com/en/blog/basic-words-in-bengali/",
+  "title": "Basic Words in Bengali: Essential Phrases for Beginners - Preply",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/preply_com_en_blog_basic_words_in_bengali_.md",
+  "chars": 22421
+ },
+ {
+  "tag": "entertainment",
+  "url": "https://www.ntvbd.com/satire/109883/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A4-%E0%A6%AF%E0%A6%A4-%E0%A6%B8%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%AA",
+  "title": "বাংলা সিনেমার বিখ্যাত যত সংলাপ - NTV Online",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_ntvbd_com_satire_109883_E0_A6_AC_E0_A6_BE_E0_A6_82_E0_A6_B2_E0_A6_BE_E0_A6_B.md",
+  "chars": 8557
+ },
+ {
+  "tag": "entertainment",
+  "url": "https://m.somewhereinblog.net/mobile/blog/somoy90/29946324",
+  "title": "বাংলা সিনেমার পরিচিত কিছু ডায়লগ - somoy90's bangla blog",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/m_somewhereinblog_net_mobile_blog_somoy90_29946324.md",
+  "chars": 11045
+ },
+ {
+  "tag": "entertainment",
+  "url": "https://www.youtube.com/watch?v=zBpZcVihZqQ",
+  "title": "বাংলা সিনেমার সব বিখ্যাত ফানি ডায়লগ | Best Bangla Movie Comedy ...",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_youtube_com_watch_v_zBpZcVihZqQ.md",
+  "chars": 6424
+ },
+ {
+  "tag": "entertainment",
+  "url": "https://bengali.indianexpress.com/entertainment/best-emotional-dialogue-in-bengali-cinema-on-mothers-day-9057931",
+  "title": "Best Dialogue: মাকে নিয়ে বাংলা ছবিতে আবেগঘন ডায়লগ যা কোনদিন ভোলা ...",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/bengali_indianexpress_com_entertainment_best_emotional_dialogue_in_bengali_cinem.md",
+  "chars": 7375
+ },
+ {
+  "tag": "entertainment",
+  "url": "https://bn.quora.com/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%9A%E0%A6%B2%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BF%E0%A6%9B%E0%A7%81",
+  "title": "বাংলা চলচ্চিত্রের কিছু মজার ডায়লগ বলতে পারবেন কি? - Quora",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/bn_quora_com_E0_A6_AC_E0_A6_BE_E0_A6_82_E0_A6_B2_E0_A6_BE_E0_A6_9A_E0_A6_B2_E0_A.md",
+  "chars": 13767
+ },
+ {
+  "tag": "entertainment",
+  "url": "https://bengali.oneindia.com/movies/news/iconic-bengali-film-dialogues-that-will-be-remembered-018433.html",
+  "title": "বাংলা ছবির জনপ্রিয় কিছু সংলাপ ,যা প্রায়ই উঠে আসে বাঙালির ...",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/bengali_oneindia_com_movies_news_iconic_bengali_film_dialogues_that_will_be_reme.md",
+  "chars": 10055
+ },
+ {
+  "tag": "gali",
+  "url": "https://bn.wikipedia.org/wiki/%E0%A6%97%E0%A6%BE%E0%A6%B2%E0%A6%BF",
+  "title": "গালি - উইকিপিডিয়া",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/bn_wikipedia_org_wiki_E0_A6_97_E0_A6_BE_E0_A6_B2_E0_A6_BF.md",
+  "chars": 49676
+ },
+ {
+  "tag": "gali",
+  "url": "https://ijcrt.org/papers/IJCRT2109410.pdf",
+  "title": "[PDF] বাংলা স্ল্যাং বা গালাগাল ও ভাষা দক্ষিণ দিনাজপুরের নারী - IJCRT",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/ijcrt_org_papers_IJCRT2109410_pdf.md",
+  "chars": 34547
+ },
+ {
+  "tag": "gali",
+  "url": "https://www.teachers.gov.bd/blog/details/770205",
+  "title": "ব্লগ - শিক্ষক বাতায়ন",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_teachers_gov_bd_blog_details_770205.md",
+  "chars": 179071
+ },
+ {
+  "tag": "gali2",
+  "url": "https://m.somewhereinblog.net/mobile/blog/reanasblog/30135390",
+  "title": "আসেন সাংসদের ৮৭ গালাগালির লিস্ট খান দেখি - reanasblog's bangla blog",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/m_somewhereinblog_net_mobile_blog_reanasblog_30135390.md",
+  "chars": 5323
+ },
+ {
+  "tag": "gali2",
+  "url": "https://www.scribd.com/document/464902106/gali",
+  "title": "Gali | PDF - Scribd",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_scribd_com_document_464902106_gali.md",
+  "chars": 6653
+ },
+ {
+  "tag": "internet",
+  "url": "https://www.youtube.com/watch?v=5sLQ8GDagAc",
+  "title": "ইন্টারনেট স্পিড স্লো? High Speed ফেসবুক চালাবেন যেভাবে। Facebook ...",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_youtube_com_watch_v_5sLQ8GDagAc.md",
+  "chars": 1653
+ },
+ {
+  "tag": "internet",
+  "url": "https://www.youtube.com/shorts/4tuSZHGj8Lk",
+  "title": "আজ রাত থেকেই ৩ দিন ইন্টারনেট স্লো! বাংলাদেশে বড় সমস্যা শুরু - YouTube",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_youtube_com_shorts_4tuSZHGj8Lk.md",
+  "chars": 2158
+ },
+ {
+  "tag": "internet",
+  "url": "https://m.somewhereinblog.net/mobile/blog/SanemMahbeerFahad/30027967",
+  "title": "ইন্টারনেটে বহুল ব্যবহৃত LOL (লুল) কথাটির আদ্যপান্ত এবং সামাজিক অপপ্রয়োগ!",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/m_somewhereinblog_net_mobile_blog_SanemMahbeerFahad_30027967.md",
+  "chars": 8010
+ },
+ {
+  "tag": "meme_bn",
+  "url": "https://punchforon.com/meme-culture-in-social-networking/",
+  "title": "সামাজিক যোগাযোগ মাধ্যমে মিম (Meme) সংস্কৃতি - Punchforon",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/punchforon_com_meme_culture_in_social_networking_.md",
+  "chars": 10137
+ },
+ {
+  "tag": "meme_bn",
+  "url": "https://play.google.com/store/apps/details?id=com.memes.funnyenglishmems.memsposter.post&hl=bn&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%E0%A6%AB%E0%A7%87%E0%A6%B8%E0%A6%AC%E0%A7%81%E0%A6%95+%E0%A6%AE%E0%A6%BF%E0%A6%AE+%E0%A6%B6%E0%A6%AC%E0%A7%8D%E0%A6%A6+%E0%A6%AD%E0%A6%BE%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%B2+%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE+%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE",
+  "title": "Meme Finder –Funny Viral Memes - Google Play তে অ্যাপ",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/play_google_com_store_apps_details_id_com_memes_funnyenglishmems_memsposter_post.md",
+  "chars": 9499
+ },
+ {
+  "tag": "meme_bn",
+  "url": "https://www.youtube.com/watch?v=3mCg7wu8PdU",
+  "title": "Memes for youtube videos no copyright | ফানি বাংলা মিম ভিডিও",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_youtube_com_watch_v_3mCg7wu8PdU.md",
+  "chars": 859
+ },
+ {
+  "tag": "movie_dialog",
+  "url": "https://giphy.com/explore/bangla-movie-memes",
+  "title": "Bangla Movie Memes GIFs - Find & Share on GIPHY",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/giphy_com_explore_bangla_movie_memes.md",
+  "chars": 6102
+ },
+ {
+  "tag": "movie_dialog",
+  "url": "https://www.youtube.com/watch?v=hnGT4tFNZow",
+  "title": "Bangla Meme Clips For Editing - YouTube",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_youtube_com_watch_v_hnGT4tFNZow.md",
+  "chars": 4303
+ },
+ {
+  "tag": "movie_dialog",
+  "url": "https://www.quora.com/What-are-some-of-the-best-movie-quotes-ever-in-Bengali-cinema",
+  "title": "What are some of the best movie quotes ever in Bengali cinema?",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_quora_com_What_are_some_of_the_best_movie_quotes_ever_in_Bengali_cinema.md",
+  "chars": 21973
+ },
+ {
+  "tag": "political",
+  "url": "https://www.youtube.com/watch?v=luluU1tm90g",
+  "title": "মতপ্রকাশ নাকি গালাগাল: কোথায় যাচ্ছে আমাদের রাজনৈতিক শিষ্টাচার? Slang ...",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_youtube_com_watch_v_luluU1tm90g.md",
+  "chars": 24517
+ },
+ {
+  "tag": "political",
+  "url": "https://cpimwestbengal.org/the-language-of-politics-pritha-tha",
+  "title": "The language of politics - Pritha Tha|রাজনীতির ভাষা - পৃথা তা",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/cpimwestbengal_org_the_language_of_politics_pritha_tha.md",
+  "chars": 25414
+ },
+ {
+  "tag": "political",
+  "url": "https://www.anandabazar.com/rabibashoriyo/bengali-tradition-of-politics-and-sloganing/cid/1274127",
+  "title": "র‌ং-বেরঙের স্লোগান - Anandabazar",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_anandabazar_com_rabibashoriyo_bengali_tradition_of_politics_and_sloganing_ci.md",
+  "chars": 28327
+ },
+ {
+  "tag": "political",
+  "url": "https://bangla.thedailystar.net/opinion/views/news-3901276",
+  "title": "ভাষার রাজনীতি বনাম রাজনীতির ভাষা: দার্শনিক বিচার | The Daily Star",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/bangla_thedailystar_net_opinion_views_news_3901276.md",
+  "chars": 8741
+ },
+ {
+  "tag": "political",
+  "url": "https://www.youtube.com/watch?v=_Zi5fPyhIzg",
+  "title": "রাজনৈতিক প্রভাবে নিয়ন্ত্রিত হয় ফুটপাতের হকারদের চাঁদাবাজি",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_youtube_com_watch_v_Zi5fPyhIzg.md",
+  "chars": 17428
+ },
+ {
+  "tag": "political_en",
+  "url": "https://en.wiktionary.org/wiki/chamcha",
+  "title": "chamcha - Wiktionary, the free dictionary",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/en_wiktionary_org_wiki_chamcha.md",
+  "chars": 4789
+ },
+ {
+  "tag": "political_en",
+  "url": "https://www.quora.com/To-whom-do-people-call-Chamcha-in-Indian-politics",
+  "title": "To whom do people call Chamcha in Indian politics? - Quora",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_quora_com_To_whom_do_people_call_Chamcha_in_Indian_politics.md",
+  "chars": 23231
+ },
+ {
+  "tag": "political_en",
+  "url": "https://www.dhakatribune.com/opinion/op-ed/391000/bad-mouth-in-politics-how-slangs-are-poisoning",
+  "title": "Bad-mouth in politics: How slangs are poisoning Bangladesh's political ...",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_dhakatribune_com_opinion_op_ed_391000_bad_mouth_in_politics_how_slangs_are_p.md",
+  "chars": 6584
+ },
+ {
+  "tag": "political_en",
+  "url": "https://www.daily-sun.com/post/829460",
+  "title": "Use of expletives in Bangladeshi political culture - Daily Sun",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_daily_sun_com_post_829460.md",
+  "chars": 14096
+ },
+ {
+  "tag": "political_en",
+  "url": "https://tangleofwires.wordpress.com/2017/04/22/bengali-vocabulary-politics-words/",
+  "title": "Bengali vocabulary – politics words - A Tangle Of Wires - WordPress.com",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/tangleofwires_wordpress_com_2017_04_22_bengali_vocabulary_politics_words_.md",
+  "chars": 9510
+ },
+ {
+  "tag": "regional2",
+  "url": "https://en.wikipedia.org/wiki/Noakhali_language",
+  "title": "Noakhali language - Wikipedia",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/en_wikipedia_org_wiki_Noakhali_language.md",
+  "chars": 97232
+ },
+ {
+  "tag": "regional2",
+  "url": "https://www.researchgate.net/publication/395004552_Pronunciation_of_Barishal_Dialect_of_Bangla_Language",
+  "title": "Pronunciation of Barishal Dialect of Bangla Language - ResearchGate",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_researchgate_net_publication_395004552_Pronunciation_of_Barishal_Dialect_of_.md",
+  "chars": 11916
+ },
+ {
+  "tag": "regional2",
+  "url": "https://en.wiktionary.org/wiki/Category:Noakhali_language",
+  "title": "Category:Noakhali language - Wiktionary, the free dictionary",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/en_wiktionary_org_wiki_Category_Noakhali_language.md",
+  "chars": 7064
+ },
+ {
+  "tag": "regional2",
+  "url": "https://www.academia.edu/164482734/Phonological_Analysis_of_Chatkhil_Dialect_in_Noakhali_District_Bangladesh",
+  "title": "(PDF) Phonological Analysis of Chatkhil Dialect in Noakhali District ...",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_academia_edu_164482734_Phonological_Analysis_of_Chatkhil_Dialect_in_Noakhali.md",
+  "chars": 38274
+ },
+ {
+  "tag": "regional2",
+  "url": "https://www.streetdirectory.com/travel_guide/106606/languages/noakhali_dialect_its_prospect_of_standardization.html",
+  "title": "Noakhali Dialect: Its Prospect of Standardization - Street Directory",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_streetdirectory_com_travel_guide_106606_languages_noakhali_dialect_its_prosp.md",
+  "chars": 27915
+ },
+ {
+  "tag": "romance",
+  "url": "https://wishinall.com/love-status/",
+  "title": "ভালোবাসার স্ট্যাটাস - Love status ৩০০+ - Wish in all",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/wishinall_com_love_status_.md",
+  "chars": 12626
+ },
+ {
+  "tag": "romance",
+  "url": "https://quotes.gonevis.com/valobashar-ukti/",
+  "title": "ভালোবাসার উক্তি, ভালোবাসা নিয়ে ৮০ টি জনপ্রিয় উক্তি - Bengali Quotes",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/quotes_gonevis_com_valobashar_ukti_.md",
+  "chars": 16637
+ },
+ {
+  "tag": "romance",
+  "url": "https://banglasmsworld.com/romantic-bangla-caption/",
+  "title": "৩০০+ রোমান্টিক বাংলা ক্যাপশন, স্ট্যাটাস ও উক্তি ২০২৬",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/banglasmsworld_com_romantic_bangla_caption_.md",
+  "chars": 22134
+ },
+ {
+  "tag": "romance",
+  "url": "https://www.youtube.com/watch?v=oNEV-CQ7FDI",
+  "title": "ভালোবাসার ডায়লগ ও ছন্দ মেসেজ,রোমান্টিক প্রেমের ছন্দ ... - YouTube",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_youtube_com_watch_v_oNEV_CQ7FDI.md",
+  "chars": 20007
+ },
+ {
+  "tag": "romance",
+  "url": "http://love-sms.bdlove24.com/",
+  "title": "Bangla Love SMS - Facebook Love Status | Valobashar SMS (বাংলা ...",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/love_sms_bdlove24_com_.md",
+  "chars": 33590
+ },
+ {
+  "tag": "romance",
+  "url": "https://bn.quora.com/%E0%A6%AD%E0%A6%BE%E0%A6%B2%E0%A7%8B%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%BE-%E0%A6%B6%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%95%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%95%E0%A6%9F%E0%A6%BF",
+  "title": "ভালোবাসা শব্দটির কয়েকটি সমার্থক শব্দ দেবেন কি? - Quora",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/bn_quora_com_E0_A6_AD_E0_A6_BE_E0_A6_B2_E0_A7_8B_E0_A6_AC_E0_A6_BE_E0_A6_B8_E0_A.md",
+  "chars": 57793
+ },
+ {
+  "tag": "romance",
+  "url": "http://banglamessageworld.blogspot.com/p/bangla-love-sms.html",
+  "title": "Love SMS - বাংলা মেসেজ ওয়ার্ল্ড",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/banglamessageworld_blogspot_com_p_bangla_love_sms_html.md",
+  "chars": 25008
+ },
+ {
+  "tag": "street",
+  "url": "https://en.wikipedia.org/wiki/Mama_and_papa",
+  "title": "Mama and papa - Wikipedia",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/en_wikipedia_org_wiki_Mama_and_papa.md",
+  "chars": 50019
+ },
+ {
+  "tag": "street",
+  "url": "https://talkpal.ai/culture/what-are-the-most-common-colloquialisms-in-dhaka-slang/",
+  "title": "What are the most common colloquialisms in Dhaka slang?",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/talkpal_ai_culture_what_are_the_most_common_colloquialisms_in_dhaka_slang_.md",
+  "chars": 13996
+ },
+ {
+  "tag": "street",
+  "url": "https://ivisontrust.org.uk/wp-content/uploads/2020/12/Slang-Dictionary-A5-Booklet.pdf",
+  "title": "[PDF] SLANG Dictionary | Ivison Trust",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/ivisontrust_org_uk_wp_content_uploads_2020_12_Slang_Dictionary_A5_Booklet_pdf.md",
+  "chars": 7364
+ },
+ {
+  "tag": "street",
+  "url": "https://www.quora.com/What-does-%E2%80%98Madharchod%E2%80%99-mean",
+  "title": "What does 'Madharchod' mean? - Quora",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_quora_com_What_does_E2_80_98Madharchod_E2_80_99_mean.md",
+  "chars": 26374
+ },
+ {
+  "tag": "sylheti",
+  "url": "https://www.omniglot.com/language/phrases/sylheti.htm",
+  "title": "Useful phrases in Sylheti - Omniglot",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_omniglot_com_language_phrases_sylheti_htm.md",
+  "chars": 17134
+ },
+ {
+  "tag": "sylheti",
+  "url": "https://en.wikiversity.org/wiki/Sylheti_language/Greetings_and_basic_polite_expressions",
+  "title": "Sylheti language/Greetings and basic polite expressions - Wikiversity",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/en_wikiversity_org_wiki_Sylheti_language_Greetings_and_basic_polite_expressions.md",
+  "chars": 1790
+ },
+ {
+  "tag": "sylheti",
+  "url": "https://quizlet.com/276968469/sylheti-terms-and-phrases-flash-cards/",
+  "title": "Sylheti terms and phrases Flashcards - Quizlet",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/quizlet_com_276968469_sylheti_terms_and_phrases_flash_cards_.md",
+  "chars": 17110
+ },
+ {
+  "tag": "sylheti",
+  "url": "https://www.languageshome.com/English-Sylheti.htm",
+  "title": "Learn Sylheti Online - Languages Home",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/www_languageshome_com_English_Sylheti_htm.md",
+  "chars": 11679
+ },
+ {
+  "tag": "sylheti",
+  "url": "https://sylhetiproject.wordpress.com/wp-content/uploads/2016/02/sylheti-language-lessons-final-2015-06-01.pdf",
+  "title": "[PDF] Language Lessons 2014 -‐ 2015 - Sylheti Project",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/sylhetiproject_wordpress_com_wp_content_uploads_2016_02_sylheti_language_lessons.md",
+  "chars": 42779
+ },
+ {
+  "tag": "sylheti",
+  "url": "https://mylittlewordland.com/course/295548/learning-sylheti",
+  "title": "Learning Sylheti - My Little Word Land",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/mylittlewordland_com_course_295548_learning_sylheti.md",
+  "chars": 42835
+ },
+ {
+  "tag": "sylheti",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12966678/",
+  "title": "A dataset for translating local Bangla (Sylheti) dialects into standard Bangla",
+  "file": "/home/z/my-project/bangla-slang-dataset/data/raw/firecrawl/md/pmc_ncbi_nlm_nih_gov_articles_PMC12966678_.md",
+  "chars": 31197
+ }
+]

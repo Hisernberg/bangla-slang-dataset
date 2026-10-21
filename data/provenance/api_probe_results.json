@@ -1,0 +1,24 @@
+{
+ "scrapegraphai_smartscraper": {
+  "status": "error",
+  "err": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1010)>",
+  "secs": 0.0
+ },
+ "browseai_robots": {
+  "status": "error",
+  "err": "HTTP Error 403: Forbidden"
+ },
+ "browserbase_session": {
+  "status": "error",
+  "err": "HTTP Error 401: Unauthorized",
+  "secs": 0.6
+ },
+ "crawlforge_scrape": {
+  "status": "error",
+  "err": "<urlopen error [Errno -2] Name or service not known>"
+ },
+ "crawlforge_alt": {
+  "status": "error",
+  "err": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+ }
+}

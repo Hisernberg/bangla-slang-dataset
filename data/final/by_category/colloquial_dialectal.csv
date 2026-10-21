@@ -1,0 +1,126 @@
+id,term_bn,romanization,literal_meaning,meaning_en,meaning_bn,category,region,part_of_speech,register,offensiveness,usage_example_bn,usage_example_en,era,tags,confidence,tier,source_type,source_url
+KS-0860,ইতর,itor,lowborn,contemptuous: uncultured wretch (Cumilla region use: outsider),নিকৃষ্ট; চট্টগ্রামাঞ্চলে বাইরের লোক বোঝাতে,colloquial_dialectal,Noakhali / Barishal / Rangpur / Khulna / Mymensingh / Kolkata,adjective,street,2,ইতর লোক!,You wretch!,classic,class_insult|also:nirmol_github|profanity|also:deshi_slang_github|vulgar|dialectal|also:hf_chittagong_vulgar|derogatory|slang|also:wiktionary_en,high,1,gold_curated,curated by dataset maintainers
+KS-0861,কেন বাপ,ken bap,"why, father",Barishal-style incredulous address,কেন বাপ? (বরিশালীয়া বিস্ময়),colloquial_dialectal,Noakhali / Barishal / Rangpur / Khulna / Mymensingh / Kolkata,phrase,dialect,0,,,classic,disbelief,high,1,gold_curated,curated by dataset maintainers
+KS-0862,চুদুর বুদুর,chudur budur,(rhyming slang),nonsense syllables; parliamentary slang for vulgar chatter (famous Speaker ruling),সংসদে আলোচিত বিদ্রূপাত্মক অর্থহীন শব্দযুগল,colloquial_dialectal,Noakhali / Barishal / Rangpur / Khulna / Mymensingh / Kolkata,noun,informal,2,,,classic,parliamentary_meme,high,1,gold_curated,curated by dataset maintainers
+KS-0863,প্যাঁচ খাওয়া,pyech khaoa,eat a coil,to get entangled in someone's trickery,চালাকিতে জটিল ফাঁদে পড়া,colloquial_dialectal,Noakhali / Barishal / Rangpur / Khulna / Mymensingh / Kolkata,phrase,informal,1,,,classic,trickery,high,1,gold_curated,curated by dataset maintainers
+KS-0864,মাইয়া লাও,maiya lao,take it (Noakhali),"Noakhali emphatic ""here, take it!""",নাও (নোয়াখালীয়া),colloquial_dialectal,Noakhali / Barishal / Rangpur / Khulna / Mymensingh / Kolkata,phrase,dialect,0,,,classic,offer,high,1,gold_curated,curated by dataset maintainers
+KS-0865,মুই,mui,I,"regional ""I"" (Mymensingh/Noakhali)",আমি (আঞ্চলিক),colloquial_dialectal,Noakhali / Barishal / Rangpur / Khulna / Mymensingh / Kolkata,pronoun,dialect,0,,,classic,pronoun,high,1,gold_curated,curated by dataset maintainers
+KS-0866,মোসাই,mosai,master (Kolkata),"Kolkata colloquial: boss, master (often ironic)",কলকাতার বস সম্বোধন,colloquial_dialectal,Noakhali / Barishal / Rangpur / Khulna / Mymensingh / Kolkata,noun,informal,0,,,classic,kolkata,high,1,gold_curated,curated by dataset maintainers
+KS-0867,হাইরে,haire,oh dear,Mymensingh-style exclamation of dismay,হায় রে! (ময়মনসিংহীয়),colloquial_dialectal,Noakhali / Barishal / Rangpur / Khulna / Mymensingh / Kolkata,interjection,dialect,0,,,classic,exclamation,high,1,gold_curated,curated by dataset maintainers
+KS-0868,হালাম,halam,brother-in-law word,"Noakhali/Faridpur-eastern form; everyday mild call in some eastern dialects, insult in others",পূর্বাঞ্চলীয় সম্বোধন/হালকা গালি,colloquial_dialectal,Noakhali / Barishal / Rangpur / Khulna / Mymensingh / Kolkata,noun,dialect,2,,,classic,dialect_insult,high,1,gold_curated,curated by dataset maintainers
+KS-0869,অগো,ogo,,colloquial form of,,colloquial_dialectal,Bangladesh,interjection,informal,0,,,,colloquial,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/অগো
+KS-0870,অঘ্রান,oghran,,"the season of harvest, the autumn, the late autumn",,colloquial_dialectal,Bangladesh,noun,informal,0,,,,colloquial,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/অঘ্রান
+KS-0871,অঙ্ক,ongk,,place,,colloquial_dialectal,Bangladesh,noun,informal,0,,,,obsolete,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/অঙ্ক
+KS-0872,অ্যাদ্দিন,ojaddin,,so far,,colloquial_dialectal,Bangladesh,adverb,informal,0,,,,colloquial,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/অ্যাদ্দিন
+KS-0873,আগুন,agun,,the month of Agrahayan.,,colloquial_dialectal,Bangladesh,etymology 2,informal,0,,,,colloquial,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/আগুন
+KS-0874,আঙ্গুল,anggul,,nail,,colloquial_dialectal,Bangladesh,noun,informal,0,,,,colloquial,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/আঙ্গুল
+KS-0875,আদুভাই,adubhai,,"A person who studies extensively or spends a long time in education but makes little or no practical progress. ; A person who clings to a student position, office, or institutional role for an unusually long time, sometimes by exploiting rules or influence to avoid leaving.",,colloquial_dialectal,Bangladesh,noun,informal,0,,,,colloquial|figurative,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/আদুভাই
+KS-0876,আমবেগুন,ambegun,,tomato,,colloquial_dialectal,Bangladesh,noun,informal,0,,,,colloquial,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/আমবেগুন
+KS-0877,আমি,ami,,we,,colloquial_dialectal,Bangladesh,pronoun,informal,0,,,,archaic,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/আমি
+KS-0878,উড়ো,udo,,loafing ; fake,,colloquial_dialectal,Bangladesh,adjective,informal,0,,,,colloquial,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/উড়ো
+KS-0879,এইগুলা,eigula,,these,,colloquial_dialectal,Bangladesh,pronoun,informal,0,,,,informal,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/এইগুলা
+KS-0880,এইটা,eita,,this,,colloquial_dialectal,Bangladesh,pronoun,informal,0,,,,informal,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/এইটা
+KS-0881,এগুলা,egula,,these,,colloquial_dialectal,Bangladesh,pronoun,informal,0,,,,informal,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/এগুলা
+KS-0882,এটা,eta,,this,,colloquial_dialectal,Bangladesh,pronoun,informal,0,,,,informal,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/এটা
+KS-0883,ওইগুলা,oigula,,those,,colloquial_dialectal,Bangladesh,pronoun,informal,0,,,,informal,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/ওইগুলা
+KS-0884,ওইটা,oita,,that,,colloquial_dialectal,Bangladesh,pronoun,informal,0,,,,informal,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/ওইটা
+KS-0885,ওগুলা,ogula,,those,,colloquial_dialectal,Bangladesh,pronoun,informal,0,,,,informal,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/ওগুলা
+KS-0886,ওটা,ota,,that,,colloquial_dialectal,Bangladesh,pronoun,informal,0,,,,informal,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/ওটা
+KS-0887,কচু,kchu,,an expression of doubt or discredit,,colloquial_dialectal,Bangladesh,adjective,informal,1,,,,slang,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/কচু
+KS-0888,কর্মকাণ্ড,krmkand,,mischief; misdeeds; shenanigans; antics; escapades,,colloquial_dialectal,Bangladesh,noun,informal,0,,,,colloquial,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/কর্মকাণ্ড
+KS-0889,কার,kar,,whose.,,colloquial_dialectal,Bangladesh,etymology 1,informal,0,,,,colloquial,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/কার
+KS-0890,কারো,karo,,"anyone, anybody",,colloquial_dialectal,Bangladesh,pronoun,informal,0,,,,colloquial,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/কারো
+KS-0891,কীর্তি,kirti,,"an act or exploit, especially one regarded as foolish, mischievous, or troublesome.",,colloquial_dialectal,Bangladesh,noun,informal,0,,,,informal,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/কীর্তি
+KS-0892,কেন,ken,,"how, in what way",,colloquial_dialectal,Bangladesh,pronoun,informal,0,,,,obsolete,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/কেন
+KS-0893,ক্যাঁ,kjan,,why,,colloquial_dialectal,Bangladesh,adverb,informal,0,,,,informal,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/ক্যাঁ
+KS-0894,খাঁটি,khanti,,"grog, country wine",,colloquial_dialectal,Bangladesh,noun,informal,1,,,,slang,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/খাঁটি
+KS-0895,গদ্দার,gddar,,"traitor, swindler",,colloquial_dialectal,Bangladesh,noun,informal,0,,,,pejorative,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/গদ্দার
+KS-0896,গরমকাল,grmkal,,summer,,colloquial_dialectal,Bangladesh,noun,informal,0,,,,colloquial,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/গরমকাল
+KS-0897,গহির,ghir,,deep,,colloquial_dialectal,Bangladesh,adjective,informal,0,,,,dialectal,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/গহির
+KS-0898,ঘেন্না,ghenna,,hatred,,colloquial_dialectal,Bangladesh,noun,informal,0,,,,colloquial,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/ঘেন্না
+KS-0899,চা-পানি,cha pani,,breakfast,,colloquial_dialectal,Bangladesh,noun,informal,0,,,,colloquial,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/চা-পানি
+KS-0900,চিজ,chij,,"thing, article",,colloquial_dialectal,Bangladesh,etymology 1,informal,0,,,,colloquial,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/চিজ
+KS-0901,চুঁচি,chunchi,,nipple ; breast,,colloquial_dialectal,Bangladesh,noun,informal,0,,,,informal,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/চুঁচি
+KS-0902,ছাপড়ি,chhapdi,,"a person with bizarre taste in fashion, often characterised by ripped jeans, coloured hair, etc.",,colloquial_dialectal,Bangladesh,noun,informal,1,,,,bangladesh|slang,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/ছাপড়ি
+KS-0903,জাতিসংঘ,jatisnggh,,League of Nations,,colloquial_dialectal,Bangladesh,proper noun,informal,0,,,,obsolete,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/জাতিসংঘ
+KS-0904,জিন্দাবাদ,jindabad,,long live...! ; * {{quote-web ; * {{quote-web,,colloquial_dialectal,Bangladesh,interjection,informal,1,,,,slang,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/জিন্দাবাদ
+KS-0905,তুমি,tumi,,"you, you all",,colloquial_dialectal,Bangladesh,pronoun,informal,0,,,,archaic,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/তুমি
+KS-0906,তুরুক,turuk,,Turk,,colloquial_dialectal,Bangladesh,noun,informal,0,,,,obsolete,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/তুরুক
+KS-0907,তেজ,tej,,"haughtiness, anger",,colloquial_dialectal,Bangladesh,noun,informal,0,,,,colloquial,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/তেজ
+KS-0908,তোর নাম কী,tornamki,,what is your name?,,colloquial_dialectal,Bangladesh,phrase,informal,0,,,,informal,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/তোর_নাম_কী
+KS-0909,দা,da,,brother,,colloquial_dialectal,Bangladesh,etymology 2,informal,1,,,,informal|slang,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/দা
+KS-0910,দিনেমার,dinemar,,"a Dane, an inhabitant of Denmark",,colloquial_dialectal,Bangladesh,noun,informal,0,,,,archaic,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/দিনেমার
+KS-0911,দুষ্টামি,dushtami,,"naughtiness, mischief, prank ; wickedness",,colloquial_dialectal,Bangladesh,noun,informal,0,,,,informal,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/দুষ্টামি
+KS-0912,ধামাকাচাপা,dhamakachapa,,red herring,,colloquial_dialectal,Bangladesh,noun,informal,0,,,,humorous|informal,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/ধামাকাচাপা
+KS-0913,নই,ni,,river,,colloquial_dialectal,Bangladesh,etymology 2,informal,0,,,,archaic,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/নই
+KS-0914,না,na,,"- no, incorrect",,colloquial_dialectal,Bangladesh,particle,informal,0,,,,informal,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/না
+KS-0915,নাংটা,nangta,,"naked, nude",,colloquial_dialectal,Bangladesh,adjective,informal,0,,,,informal,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/নাংটা
+KS-0916,নাঙ্গা,nangga,,naked,,colloquial_dialectal,Bangladesh,adjective,informal,0,,,,informal,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/নাঙ্গা
+KS-0917,পড়াকু,pdaku,,"avid to read, devoted to studying, bookish",,colloquial_dialectal,Bangladesh,adjective,informal,0,,,,colloquial,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/পড়াকু
+KS-0918,পর্নো,prno,,porno,,colloquial_dialectal,Bangladesh,noun,informal,0,,,,informal,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/পর্নো
+KS-0919,পানু,panu,,pornography,,colloquial_dialectal,Bangladesh,noun,informal,1,,,,slang,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/পানু
+KS-0920,পায়খানা,pajkhana,,"shit, excrement",,colloquial_dialectal,Bangladesh,noun,informal,0,,,,colloquial,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/পায়খানা
+KS-0921,প্যারা,pjara,,"pain, suffering, disturbance",,colloquial_dialectal,Bangladesh,noun,informal,0,,,,colloquial,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/প্যারা
+KS-0922,ফাটাফাটি,phataphati,,awesome,,colloquial_dialectal,Bangladesh,adjective,informal,1,,,,slang,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/ফাটাফাটি
+KS-0923,ফ্রেজী,phreji,,colloquial form of পরহেজী,,colloquial_dialectal,Bangladesh,adjective,informal,0,,,,colloquial,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/ফ্রেজী
+KS-0924,ফ্ল্যাগ,phljag,,flag,,colloquial_dialectal,Bangladesh,noun,informal,0,,,,colloquial|informal,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/ফ্ল্যাগ
+KS-0925,বল্টু,bltu,,penis,,colloquial_dialectal,Bangladesh,etymology 1,informal,1,,,,colloquial|slang,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/বল্টু
+KS-0926,বাঙালি,bangali,,Any native inhabitant of Bengal Sultanate. ; Any inhabitant of Suba Bangalah.,,colloquial_dialectal,Bangladesh,noun,informal,0,,,,obsolete,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/বাঙালি
+KS-0927,বিছানা,bichhana,,the location of sexual activity,,colloquial_dialectal,Bangladesh,noun,informal,0,,,,euphemism,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/বিছানা
+KS-0928,বিলাই,bilai,,a cat,,colloquial_dialectal,Bangladesh,noun,informal,0,,,,colloquial,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/বিলাই
+KS-0929,ব্লোজব,blojb,,blowjob,,colloquial_dialectal,Bangladesh,noun,informal,0,,,,colloquial,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/ব্লোজব
+KS-0930,মগ,mg,,Rakhine or Marma,,colloquial_dialectal,Bangladesh,etymology 1,informal,0,,,,pejorative,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/মগ
+KS-0931,মড়া,mda,,"dead body, corpse",,colloquial_dialectal,Bangladesh,noun,informal,0,,,,colloquial,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/মড়া
+KS-0932,মাঘ,magh,,Rakhine or Marma,,colloquial_dialectal,Bangladesh,etymology 2,informal,0,,,,pejorative,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/মাঘ
+KS-0933,মাল ফেলা,malphela,,"to cum, to ejaculate",,colloquial_dialectal,Bangladesh,verb,informal,1,,,,slang,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/মাল_ফেলা
+KS-0934,মিঞা,mia,,squire,,colloquial_dialectal,Bangladesh,noun,informal,0,,,,archaic,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/মিঞা
+KS-0935,মুত,mut,,"piss, urine",,colloquial_dialectal,Bangladesh,noun,informal,0,,,,colloquial,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/মুত
+KS-0936,মুসাফির,musaphir,,beggar,,colloquial_dialectal,Bangladesh,noun,informal,0,,,,colloquial,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/মুসাফির
+KS-0937,যদ্দিন,jddin,,as long as,,colloquial_dialectal,Bangladesh,conjunction,informal,0,,,,colloquial,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/যদ্দিন
+KS-0938,রিজ়,rij,,rizz,,colloquial_dialectal,Bangladesh,noun,informal,1,,,,slang,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/রিজ়
+KS-0939,লন্ডন,lndn,,the United Kingdom,,colloquial_dialectal,Bangladesh,noun,informal,0,,,,informal,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/লন্ডন
+KS-0940,লবডঙ্কা,lbdngka,,nothing,,colloquial_dialectal,Bangladesh,noun,informal,0,,,,humorous|pejorative,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/লবডঙ্কা
+KS-0941,লাগ,lag,,Angry in a cute way.,,colloquial_dialectal,Bangladesh,noun,informal,0,,,,humorous|informal,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/লাগ
+KS-0942,শীত,shit,,cold,,colloquial_dialectal,Bangladesh,adjective,informal,0,,,,colloquial,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/শীত
+KS-0943,সংগঠনঠন,snggthnthn,,A defunct organization,,colloquial_dialectal,Bangladesh,noun,informal,0,,,,humorous|informal,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/সংগঠনঠন
+KS-0944,সই,si,,"correct, proper ; valid ; validated, approved, signed",,colloquial_dialectal,Bangladesh,etymology 1,informal,0,,,,archaic|obsolete,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/সই
+KS-0945,সম্ভব,smbhb,,probability,,colloquial_dialectal,Bangladesh,noun,informal,0,,,,obsolete,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/সম্ভব
+KS-0946,সরকারী,srkari,,free,,colloquial_dialectal,Bangladesh,noun,informal,1,,,,slang,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/সরকারী
+KS-0947,সামান,saman,,stuff,,colloquial_dialectal,Bangladesh,noun,informal,0,,,,informal,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/সামান
+KS-0948,সাহেব,saheb,,British,,colloquial_dialectal,Bangladesh,noun,informal,0,,,,colloquial,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/সাহেব
+KS-0949,সিডি,sidi,,"any storage device that resembles a compact disc, including DVD.",,colloquial_dialectal,Bangladesh,noun,informal,0,,,,colloquial,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/সিডি
+KS-0950,সুগার,sugar,,diabetes,,colloquial_dialectal,Bangladesh,noun,informal,0,,,,informal,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/সুগার
+KS-0951,সেইগুলা,seigula,,those,,colloquial_dialectal,Bangladesh,pronoun,informal,0,,,,informal,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/সেইগুলা
+KS-0952,সেগুলা,segula,,those,,colloquial_dialectal,Bangladesh,pronoun,informal,0,,,,informal,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/সেগুলা
+KS-0953,সেটা,seta,,that,,colloquial_dialectal,Bangladesh,pronoun,informal,0,,,,informal,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/সেটা
+KS-0954,হাত মারা,hatmara,,"wanking, fapping, masturbation ; to beat off, to wank, to fap, to masturbate",,colloquial_dialectal,Bangladesh,noun,informal,1,,,,slang,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/হাত_মারা
+KS-0955,হার্ট,hart,,heart,,colloquial_dialectal,Bangladesh,noun,informal,0,,,,colloquial,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/হার্ট
+KS-0956,হিন্দুস্তান,hindustan,,Hindustan,,colloquial_dialectal,Bangladesh,proper noun,informal,0,,,,colloquial,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/হিন্দুস্তান
+KS-0957,হিন্দুস্তানি,hindustani,,North India ; a person from North India,,colloquial_dialectal,Bangladesh,adjective,informal,0,,,,colloquial,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/হিন্দুস্তানি
+KS-0958,হুদা,huda,,"an irrelevant speech, which is without reason or context, or is fake.",,colloquial_dialectal,Bangladesh,etymology 1,informal,0,,,,informal,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/হুদা
+KS-0959,হ্যালো,hjalo,,hello,,colloquial_dialectal,Bangladesh,noun,informal,0,,,,colloquial,medium,2,wiktionary_en,https://en.wiktionary.org/wiki/হ্যালো
+KS-0960,অপমানিত হলে,opmanithle,,,,colloquial_dialectal,Noakhali/Dinajpur,,informal,0,,,,,medium,3,web_lexicon_list,https://ijcrt.org/papers/IJCRT2109410.pdf
+KS-0961,অপেক্ষকৃত অধিকশিক্ষিত নারী (%,Category,,Category,অপেক্ষকৃত অল্প শিক্ষিত নারী (%,colloquial_dialectal,Noakhali/Dinajpur,,informal,0,,,,,medium,3,web_lexicon_list,https://ijcrt.org/papers/IJCRT2109410.pdf
+KS-0962,অবৈধ,oboidh,,,অসামাজিক,colloquial_dialectal,Noakhali/Dinajpur,,street,2,,,,vulgar|dialectal|also:hf_chittagong_vulgar|also:hf_chittagong_vulgar,medium,3,web_lexicon_list,https://ijcrt.org/papers/IJCRT2109410.pdf
+KS-0963,অবৈধ অনুষঙ্গ,oboidhonushngg,,,মেটাফরও রূপক,colloquial_dialectal,Noakhali/Dinajpur,,informal,0,,,,,medium,3,web_lexicon_list,https://ijcrt.org/papers/IJCRT2109410.pdf
+KS-0964,অি ভ,oibh,,,তনাঙরা তযৌন সম্পকভ করত্ত্বত চাওয়া,colloquial_dialectal,Noakhali/Dinajpur,,informal,0,,,,,medium,3,web_lexicon_list,https://ijcrt.org/papers/IJCRT2109410.pdf
+KS-0965,আর্থিক সমস্যায়,arthiksmsjaj,,,,colloquial_dialectal,Noakhali/Dinajpur,,informal,0,,,,,medium,3,web_lexicon_list,https://ijcrt.org/papers/IJCRT2109410.pdf
+KS-0966,গ্রামীণ ব্যবহার করেন,graminbjbharkren,,,,colloquial_dialectal,Noakhali/Dinajpur,,informal,0,,,,,medium,3,web_lexicon_list,https://ijcrt.org/papers/IJCRT2109410.pdf
+KS-0967,গ্রামীণশহরে ব্যবহার করেন,graminshhrebjbharkren,,,,colloquial_dialectal,Noakhali/Dinajpur,,informal,0,,,,,medium,3,web_lexicon_list,https://ijcrt.org/papers/IJCRT2109410.pdf
+KS-0968,জন্ম,jnm,,,সম্পর্ক,colloquial_dialectal,Noakhali/Dinajpur,,informal,0,,,,,medium,3,web_lexicon_list,https://ijcrt.org/papers/IJCRT2109410.pdf
+KS-0969,ঝাগড়া,jhagda,,,,colloquial_dialectal,Noakhali/Dinajpur,,informal,0,,,,,medium,3,web_lexicon_list,https://ijcrt.org/papers/IJCRT2109410.pdf
+KS-0970,ততোরা,tteara,,,তযৌন িক্ষতা সম্প� অশ্লীে বযজি। ‘ো�য়া’ শ�ষ্টির সত্ত্ব� ‘তত’ বণ ভগু� ষ্টি যুি হত্ত্বয়  াো ােষ্টিত্ত্বক আত্ত্বরা,colloquial_dialectal,Noakhali/Dinajpur,,informal,0,,,,,medium,3,web_lexicon_list,https://ijcrt.org/papers/IJCRT2109410.pdf
+KS-0971,তিণীথবর্া [Image,tinithbra Image,,,Image5] গুত্ত্বো  াো াত্ত্বের প্রকৃথত ও উৎপথত্ত থবষয়ক আত্ত্বোচনায় প্রত্ত্বয়ােনীয়। পথবত্র সরকার তাুঁর “তোকর্াষা ও,colloquial_dialectal,Noakhali/Dinajpur,,informal,0,,,,,medium,3,web_lexicon_list,https://ijcrt.org/papers/IJCRT2109410.pdf
+KS-0972,তেজারা,tejara,,,যৌন দক্ষতা সম্পন্ন অশ্লীল ব্যক্তি। ‘জারুয়া’ শব্দটির সঙ্গে ‘তে’ বর্ণগুচ্ছ টি যুক্ত হয়ে গালাগালটিকে আরো,colloquial_dialectal,Noakhali/Dinajpur,,informal,0,,,,,medium,3,web_lexicon_list,https://ijcrt.org/papers/IJCRT2109410.pdf
+KS-0973,নারীর ভাষায় ব্যবহৃত গলাগাল,narirbhashajbjbhritglagal,,,অপেক্ষাকৃত অধিক শিক্ষিত নারী,colloquial_dialectal,Noakhali/Dinajpur,,informal,0,,,,,medium,3,web_lexicon_list,https://ijcrt.org/papers/IJCRT2109410.pdf
+KS-0974,প্রত্ত্বয়া,prttbja,,,"ে ডা, থববাত্ত্বি পু�ষ মানুত্ত্বষর প্রথত বযবহৃত",colloquial_dialectal,Noakhali/Dinajpur,,informal,0,,,,,medium,3,web_lexicon_list,https://ijcrt.org/papers/IJCRT2109410.pdf
+KS-0975,বিভিন্ন পরিস্থিতিত,bibhinnpristhitit,,,গ্রামীণ,colloquial_dialectal,Noakhali/Dinajpur,,informal,0,,,,,medium,3,web_lexicon_list,https://ijcrt.org/papers/IJCRT2109410.pdf
+KS-0976,ব্যক্তিবাচক,bjktibachk,,,বস্তুবাচক,colloquial_dialectal,Noakhali/Dinajpur,,informal,0,,,,,medium,3,web_lexicon_list,https://ijcrt.org/papers/IJCRT2109410.pdf
+KS-0977,ব্যবহার করেন,bjbharkren,,,ব্যবহার করেন,colloquial_dialectal,Noakhali/Dinajpur,,informal,0,,,,,medium,3,web_lexicon_list,https://ijcrt.org/papers/IJCRT2109410.pdf
+KS-0978,মনোমালিনে্য,mnomalinej,,,,colloquial_dialectal,Noakhali/Dinajpur,,informal,0,,,,,medium,3,web_lexicon_list,https://ijcrt.org/papers/IJCRT2109410.pdf
+KS-0979,মানসিক অত্যাচার,mansikotjachar,,,,colloquial_dialectal,Noakhali/Dinajpur,,informal,0,,,,,medium,3,web_lexicon_list,https://ijcrt.org/papers/IJCRT2109410.pdf
+KS-0980,রসিকতা,rsikta,,,,colloquial_dialectal,Noakhali/Dinajpur,,informal,0,,,,,medium,3,web_lexicon_list,https://ijcrt.org/papers/IJCRT2109410.pdf
+KS-0981,শত্রুতায়,shtrutaj,,,,colloquial_dialectal,Noakhali/Dinajpur,,informal,0,,,,,medium,3,web_lexicon_list,https://ijcrt.org/papers/IJCRT2109410.pdf
+KS-0982,শহরে ব্যবহার করেন,shhrebjbharkren,,,,colloquial_dialectal,Noakhali/Dinajpur,,informal,0,,,,,medium,3,web_lexicon_list,https://ijcrt.org/papers/IJCRT2109410.pdf
+KS-0983,শারীরিক নিগ্রহ,shaririknigrh,,,,colloquial_dialectal,Noakhali/Dinajpur,,informal,0,,,,,medium,3,web_lexicon_list,https://ijcrt.org/papers/IJCRT2109410.pdf
+KS-0984,হিংসা বা ঈর্থা,hingsabairtha,,,,colloquial_dialectal,Noakhali/Dinajpur,,informal,0,,,,,medium,3,web_lexicon_list,https://ijcrt.org/papers/IJCRT2109410.pdf

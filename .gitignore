@@ -1,0 +1,18 @@
+# Secrets
+.env
+*.key
+*_token*
+config.json
+
+# Raw scraping workspace (kept locally, provenance subset committed instead)
+data/raw/
+firecrawl_cache/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db

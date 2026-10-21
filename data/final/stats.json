@@ -1,0 +1,34 @@
+{
+ "total": 2100,
+ "by_category": {
+  "campus_student": 15,
+  "colloquial_dialectal": 125,
+  "entertainment_media": 9,
+  "internet_social": 18,
+  "profanity_curses": 1048,
+  "regional_chattogram": 744,
+  "regional_dhaka": 101,
+  "regional_sylhet": 14,
+  "relationships_emotions": 13,
+  "social_political": 13
+ },
+ "by_tier": {
+  "1": 150,
+  "2": 194,
+  "3": 1756
+ },
+ "by_source_type": {
+  "gold_curated": 150,
+  "wiktionary_bn": 70,
+  "hf_chittagong_vulgar": 731,
+  "wiktionary_en": 124,
+  "web_lexicon_list": 155,
+  "nirmol_github": 802,
+  "deshi_slang_github": 68
+ },
+ "tier4_candidates": 75,
+ "with_meaning_en": 1163,
+ "with_meaning_bn": 235,
+ "with_romanization": 2100,
+ "with_example": 62
+}
