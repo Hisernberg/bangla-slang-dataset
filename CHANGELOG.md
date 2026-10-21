@@ -28,3 +28,21 @@
 - Sources: Wiktionary (en+bn), Nirmol (GitHub), deshi-slang (GitHub), Chittagonian vulgar lexicon (Hugging Face, Apache-2.0), 100 markdown pages via Firecrawl, Browserbase-rendered lists, Kaggle corpus references.
 - 3-tier provenance system, 150 gold-curated entries, 75 quarantined candidates.
 - CC BY-SA 4.0 data / MIT code.
+
+## v3.0 — Multi-Modal Expansion (2026-10-21)
+
+**3,174 entries · 16 categories · 230 audio clips · 2,900+ usage-corpus documents**
+
+### Added
+- **🎧 TTS audio layer**: 230 MP3 clips of high-popularity entries generated with Microsoft Edge-TTS Bengali neural voices (bn-BD-NabanitaNeural, bn-BD-PradeepNeural); manifest with per-clip duration, voice and schema fields (`data/audio/kothar_rong_tts/`).
+- **🗣 Real-speech layer**: 100 Bangla TV-speech transcripts with speaker IDs & durations from HF `ragibhasan/bangla_speech_corpus_v1` (`data/audio/speech_samples/`).
+- **📄 Usage corpus** (`data/corpus/`): 2,597 YouTube comments (30 top videos, up to 56M views) + 354-video metadata (YouTube Data API v3); 8 full Bangla drama/comedy transcripts (~40K chars, Supadata); 66 song lyrics incl. Bangla rap (LRCLIB); 37 Telegram meme-channel messages (public previews); 86 news headlines (BBC Bangla + Prothom Alo RSS).
+- **+32 new entries** (KS-3143 → KS-3174): 6 Kolkata/Indian-Bengali slang (ling-app, glossed with examples), 1 Wiktionary slang-category term, 6 usage-counted Noakhali political gaalis from the 2016 viral MP audio (somewhereinblog), **14 Sylheti Nagri-script phrases** (Omniglot), 5 corpus-mined dialect verbs.
+- **+400 corpus-mined candidate terms** frequency-verified across ≥2 independent sources (`data/candidates/v3_corpus_candidates.csv`).
+- **v3 pipelines** added to `scripts/` (env-var-only, key-free): YouTube harvest, Supadata transcripts, Tavily discovery, Firecrawl scrape, Telegram previews, LRCLIB lyrics, Edge-TTS audio, RSS, candidate miner.
+
+### Sources
+- YouTube Data API v3, Supadata, Tavily, Firecrawl v2 (16 pages + 8 searches), Omniglot, ling-app, somewhereinblog, LRCLIB, Edge-TTS, HF datasets-server, RSS. Full manifest + blocked-source log: `data/provenance/v3_harvest_manifest.json`.
+
+### Blocked (documented)
+- yt-dlp audio download (YouTube bot-wall on datacenter IPs), HF datasets-server rows for `google/fleurs` (persistent 503) and gated `Kathbath`/`common_voice_17_0`, Telegram Bot API (api_hash provided without api_id).

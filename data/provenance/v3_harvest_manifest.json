@@ -1,0 +1,64 @@
+{
+ "version": "3.0",
+ "layers": {
+  "youtube_videos": {
+   "count": 370,
+   "api": "YouTube Data API v3",
+   "license": "metadata via official API ToS"
+  },
+  "youtube_comments": {
+   "count": 2597,
+   "api": "YouTube Data API v3 commentThreads"
+  },
+  "youtube_transcripts": {
+   "count": 3,
+   "chars_bn": 39844,
+   "api": "Supadata",
+   "lang": "bn"
+  },
+  "telegram_messages": {
+   "count": 37,
+   "method": "t.me/s/ public web previews",
+   "channels": 7
+  },
+  "lrclib_lyrics": {
+   "count": 66,
+   "chars": 69033,
+   "license": "LRCLIB open lyrics db",
+   "note": "artist_name search empty; q= full-text worked; heavy 503 backoff"
+  },
+  "edge_tts_audio": {
+   "count": 160,
+   "voices": [
+    "bn-BD-NabanitaNeural",
+    "bn-BD-PradeepNeural"
+   ],
+   "license": "generated, no copyright"
+  },
+  "speech_corpus_transcripts": {
+   "count": 100,
+   "dataset": "ragibhasan/bangla_speech_corpus_v1",
+   "license": "none specified — attribution given"
+  },
+  "firecrawl_docs": {
+   "count": 10,
+   "chars": 533872
+  },
+  "tavily_urls": {
+   "count": 107
+  },
+  "rss_headlines": {
+   "count": 86,
+   "feeds": [
+    "bbc_bangla",
+    "prothom_alo"
+   ]
+  }
+ },
+ "blocked_or_failed": {
+  "yt_dlp_audio_download": "YouTube bot-check wall on datacenter IP",
+  "huggingface_datasets_server": "overloaded (429/503) for google/fleurs; gated for Kathbath/CV17 — pulled via hub search fallback: ragibhasan corpus OK",
+  "lrclib_artist_search": "empty; q= mode used instead",
+  "telegram_api_hash": "user provided api_hash only (32-hex); api_id number missing — keyless t.me/s/ previews used"
+ }
+}

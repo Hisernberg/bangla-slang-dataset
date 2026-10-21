@@ -62,3 +62,10 @@ Idioms functioning as slang: ঢোল পিটানো (beat your own drum), 
 3. **Structured lexicons** — mapped from the source's own label system.
 4. **Residue** — keyword classifier on meanings/tags, then a slang-family tag fallback.
 5. **Auto-extracts that still fail classification are quarantined**, never force-fitted — no junk in the 10 categories.
+
+## v3.0 notes — regions & scripts
+
+- **New regional coverage**: Kolkata / West Bengal (India) slang captured via ling-app entries — the dataset now spans both Bengals.
+- **Sylheti Nagri script (ꠡꠣꠉꠔꠝ꠆…)**: 14 Omniglot phrases entered in the native Sylheti script with romanization, stored under `regional_sylhet`; Bengali-script and Nagri-script entries co-exist with a `sylheti-nagri` tag.
+- **Usage-counted evidence**: the 6 Noakhali political gaalis carry real utterance counts from the 2016 viral audio (e.g. পুটকি মারা ×41) — see `source_url`.
+- **Corpus layer**: v3 adds raw usage corpora (comments/lyrics/memes/transcripts) so annotators can verify candidate terms in context; 400 frequency-verified candidates await tier-promotion.

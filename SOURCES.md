@@ -103,3 +103,20 @@ r/bangladesh slang threads returned HTTP 403 (datacenter-IP block). No data take
 | CC BY-SA 4.0 (data) | blog/wiki word lists | factual extraction + deep links ✔ |
 
 **Takedown policy**: any source author can request removal via GitHub issues — no questions asked.
+
+## v3.0 additions
+
+| # | Source | What was taken | License / basis | URL |
+|---|--------|----------------|-----------------|-----|
+| 18 | YouTube Data API v3 | 354 video metadata + 2,597 comments | Official API ToS, public data | https://developers.google.com/youtube |
+| 19 | Supadata | 8 full Bangla video transcripts (~40K chars) | API ToS | https://supadata.ai |
+| 20 | Tavily search | 107 source-discovery URLs | API ToS | https://tavily.com |
+| 21 | Firecrawl v2 (16 pages + 8 searches) | Wiktionary Bengali-slang category, bn.wiki গালি, Sylheti-language wiki, youswear, omniglot, ling-app, somewhereinblog, Prothom Alo review (~534K chars) | factual extraction + deep links | https://firecrawl.dev |
+| 22 | ling-app Bengali slang blog | 6 Kolkata-Bengali slang entries with EN glosses + examples | factual extraction + deep link | https://ling-app.com/blog/bengali-slang-words |
+| 23 | somewhereinblog | 6 Noakhali political gaalis with 2016 usage counts | factual extraction + deep link | https://m.somewhereinblog.net/mobile/blog/reanasblog/30135390 |
+| 24 | Omniglot Sylheti phrases | 14 Sylheti Nagri-script phrases with romanization | factual extraction + deep link | https://www.omniglot.com/language/phrases/sylheti.htm |
+| 25 | LRCLIB | 66 Bangla song lyrics (incl. Bangla rap) | LRCLIB open lyrics DB, no key | https://lrclib.net |
+| 26 | Microsoft Edge-TTS | 230 generated Bengali audio clips | generated, no copyright | https://github.com/rany2/edge-tts |
+| 27 | ragibhasan/bangla_speech_corpus_v1 | 100 speech transcripts + metadata | no license stated — research attribution | https://huggingface.co/datasets/ragibhasan/bangla_speech_corpus_v1 |
+| 28 | RSS: BBC Bangla + Prothom Alo | 86 headlines (reference register) | public RSS feeds | https://feeds.bbci.co.uk/bengali/rss.xml |
+| 29 | Telegram public previews | 37 meme-channel messages (7 channels) | public t.me/s/ web previews | https://t.me/s/bangla_memes |
