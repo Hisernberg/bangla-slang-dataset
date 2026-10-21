@@ -1,10 +1,10 @@
 # কথার রঙ · Kothar Rong — The Open Bangla Slang Dataset
 
-**কথার রঙ** ("The Color of Speech") is an open, multi-source lexicon of **Bangla (Bengali) slang** — regional street dialects, internet meme culture, campus slang, profanity, cinema catchphrases, street-and-bazaar language, sports & gaming banter, idioms, and the living register of everyday Bengal — organized into **19 style & regional categories** with romanization, bilingual glosses, registers, offensiveness ratings, era tags and popularity estimates — plus a **239K-comment usage corpus**, **2,300+ audio clips** (TTS + emotional + real speech) and per-term **usage evidence** mined from live social data.
+**কথার রঙ** ("The Color of Speech") is an open, multi-source lexicon of **Bangla (Bengali) slang** — regional street dialects, internet meme culture, campus slang, profanity, cinema catchphrases, street-and-bazaar language, sports & gaming banter, idioms, and the living register of everyday Bengal — organized into **20 style & regional categories** with romanization, bilingual glosses, registers, offensiveness ratings, era tags and popularity estimates — plus a **505-row cross-lingual reverse-mapping layer** (English/Hindi/Urdu/Arabic/Korean/Japanese/Spanish slang → Bangla, labeled by borrowing process), a **239K-comment usage corpus**, **2,300+ audio clips** (TTS + emotional + real speech) and per-term **usage evidence** mined from live social data.
 
 > 🏁 Built as the flagship lexicon for the **ELITE Research Lab Dataset Competition 2026** (slang-dictionary special category · "Culture & Tone" priority track).
 
-![Entries](https://img.shields.io/badge/entries-3%2C287%20verified-brightgreen) ![Categories](https://img.shields.io/badge/categories-19-blue) ![Gold](https://img.shields.io/badge/gold%20curated-837-gold) ![Audio](https://img.shields.io/badge/audio%20clips-2%2C303-red) ![Corpus](https://img.shields.io/badge/usage%20corpus-239K%20comments-purple) ![Examples](https://img.shields.io/badge/usage%20examples-1%2C049-success) ![License](https://img.shields.io/badge/data%20license-CC%20BY--SA%204.0-lightgrey) ![Code](https://img.shields.io/badge/code%20license-MIT-informational) ![Romanization](https://img.shields.io/badge/romanization-100%25-success)
+![Entries](https://img.shields.io/badge/entries-3%2C318%20verified-brightgreen) ![Categories](https://img.shields.io/badge/categories-20-blue) ![Gold](https://img.shields.io/badge/gold%20curated-857-gold) ![Crosslingual](https://img.shields.io/badge/cross--lingual%20mappings-505-teal) ![Audio](https://img.shields.io/badge/audio%20clips-2%2C303-red) ![Corpus](https://img.shields.io/badge/usage%20corpus-239K%20comments-purple) ![Examples](https://img.shields.io/badge/usage%20examples-1%2C080-success) ![License](https://img.shields.io/badge/data%20license-CC%20BY--SA%204.0-lightgrey) ![Code](https://img.shields.io/badge/code%20license-MIT-informational) ![Romanization](https://img.shields.io/badge/romanization-100%25-success)
 
 ---
 
@@ -12,20 +12,21 @@
 
 | | |
 |---|---|
-| **Verified entries** | **3,287** (+12,500+ auto-extracted candidates quarantined for human annotation) |
-| **Categories** | 19 (4 regional + 15 style/usage-based) |
-| **Gold-curated entries** | 837 with full schema (meaning, gloss, example, register, era, popularity) |
+| **Verified entries** | **3,318** (+12,500+ auto-extracted candidates quarantined for human annotation) |
+| **Categories** | 20 (4 regional + 16 style/usage-based) |
+| **Gold-curated entries** | 857 with full schema (meaning, gloss, example, register, era, popularity) |
+| **🗺️ Cross-lingual layer** | **505 reverse mappings** from 10 source languages → Bangla, each labeled with `mapping_process` (loanword_verbalized_kora/mara/khaoa, semantic_equivalent, calque, cultural_adaptation), native-equivalent + code-mixed form, register, domain and UD evidence (`data/final/crosslingual_mappings.csv`) |
 | **Sources** | 18+ harvested systems: Wiktionary (en+bn), GitHub, Hugging Face + datasets-server, Kaggle, Firecrawl, Browserbase, YouTube Data API, Supadata, Tavily, LRCLIB, Telegram public channels, 240+ web pages |
 | **🎧 Audio layer** | **2,303 clips** — 1,380 TTS pronunciations (bn-BD neural) + 672 BASER emotional clips (ANGRY/SAD/HAPPY/FEAR/NEUTRAL) + 252 real-speech clips (telecom customer-care, ASR corpora) + 1 call-center dialogue (`data/audio/`) |
 | **📄 Usage corpus** | **239,148 YouTube comments** (1,099 videos) · **916 lexicon terms with usage evidence** · 11 video transcripts · 194 lyric tracks (2,529 slang-flagged lines) · 87 Telegram meme messages · 194 Shorts metadata · 86 news headlines (`data/corpus/`) |
 | **Scripts covered** | Bengali (primary) · Sylheti Nagri (reference) · Banglish Roman (documented variants) |
 | **Fields per entry** | 20 — see [SCHEMA.md](SCHEMA.md) |
 | **Romanization** | 100% (deterministic auto-transliteration + source-provided) |
-| **English glosses** | 2,178 entries (66%) · Bengali glosses: 921 · **usage examples: 1,049** |
-| **Popularity estimates** | 726 entries rated 1–5 for social-media usage frequency |
+| **English glosses** | 2,209 entries (67%) · Bengali glosses: 952 · **usage examples: 1,080** |
+| **Popularity estimates** | 757 entries rated 1–5 for social-media usage frequency |
 | **Quality tiers** | 3-tier provenance system — see below |
 
-## 🗂️ The 19 categories
+## 🗂️ The 20 categories
 
 | # | Category | বাংলা | Entries | Example |
 |---|----------|-------|--------:|---------|
@@ -48,6 +49,7 @@
 | 17 | `meme_internet_culture` | মিম ও ইন্টারনেট সংস্কৃতি | 29 | **চুজ্জ** — meme-era swagger; **হাব্যো** — affectionate nerd-roast; **ভাইরাল খাওয়া** — go viral (against your will) |
 | 18 | `genz_trending` | জেন-জেড ট্রেন্ডিং | 19 | **ভাইব চেক** — vibe check; **মুড অফ** — mood off; **পার্সোনাল খাওয়া** — take it personal |
 | 19 | `corporate_workplace` | কর্পোরেট-অফিস | 19 | **বস প্লিজিং** — boss-pleasing; **মিটিং শেষে মিটিং** — meeting after meeting; **নোটিশ খাওয়া** — eat a termination notice |
+| 20 | `anglicism_borrowings` | ইংরেজি-ঋণ শব্দ | 31 | **রিজ** (*rizz*) — romantic game; **নো ক্যাপ** — no lie; **সিচুয়েশনশিপ** — undefined romance; **রেশিও খাওয়া** — get ratioed |
 
 Full details and inclusion criteria: [TAXONOMY.md](TAXONOMY.md).
 
@@ -57,7 +59,12 @@ Full details and inclusion criteria: [TAXONOMY.md](TAXONOMY.md).
 import pandas as pd
 
 df = pd.read_csv("data/final/bangla_slang_master.csv")
-print(df.shape)                      # (3287, 20)
+print(df.shape)                      # (3318, 20)
+
+# cross-lingual reverse-mapping layer: what did English slang become in Bangla?
+xlm = pd.read_csv("data/final/crosslingual_mappings.csv")
+print(xlm.shape)                     # (505, 18)
+print(xlm[xlm.source_lang == "en"]["mapping_process"].value_counts())
 
 # all Dhakaiya street slang, ranked by offensiveness
 dh = df[df.category == "regional_dhaka"].sort_values("offensiveness")
@@ -131,6 +138,37 @@ v3.1 is a **100× corpus expansion** driven by the full API stack (YouTube Data 
 | **📊 Mined candidates** | 2,529 frequency-verified Bangla/Banglish terms awaiting annotation | `data/candidates/candidates_v31.json` | — |
 
 **Blocked & documented this wave:** YouTube transcript/caption endpoints + yt-dlp (datacenter bot-wall — transcripts sourced via Supadata where credits remained), Supadata free credits exhausted mid-run (3 transcripts), memegen.google.com (DNS-blocked in sandbox), several Telegram channels (0 preview messages), Facebook reels (no legitimate keyless path — Shorts used as proxy).
+
+## 🌍 v3.2 Cross-Lingual Reverse-Mapping Layer (new)
+
+v3.2 does the **reverse work**: start from slang in *other* languages and trace what it becomes in Bangla — with every conversion **labeled by its borrowing process**. 505 curated mappings across 10 source languages, each with the native Bangla equivalent *and* the code-mixed form actually spoken on Dhaka streets, plus Urban Dictionary evidence for 270 English source terms and 122 links back into the master lexicon.
+
+| Source language | Mappings | Examples |
+|---|---:|---|
+| English (core) | 313 | *ghosting* → গোস্টিং / **গায়েব হয়ে যাওয়া** · *mid* → মিড / **ফানুস** · *rizz* → রিজ |
+| English (UK) | 31 | *gutted* → গাটেড / ভেঙে পড়া · *taking the piss* → মজা নেওয়া · *skint* → পকেট খালি |
+| English (AU) | 15 | *sickie* → জাল অসুখের ছুটি · *mate's rates* → **দোস্তি দর** |
+| Hindi | 89 | *bakchodi* → **বকচাটামি** · *jugaad* → খাপছাড়া সমাধান · *panga* → পাঙ্গা নেওয়া |
+| Urdu/Arabic/Persian | 30 | *fazool* → ফাজিল · *haramkhor* → হারামখোর · *naseeb* → নসিব |
+| Korean | 10 | *daebak* → দেবাক · *oppa* → ওপ্পা · *hwaiting* → ফাইটিং! |
+| Japanese | 10 | *senpai* → সেম্পাই · *waifu* → ওয়াইফু · *nakama* → নাকামা |
+| Spanish | 7 | *¡vamos!* → ভামোস! · *amigo* → অ্যামিগো |
+
+**Every row carries 18 labeled fields**, the centerpiece being `mapping_process` — the linguistic route the word took:
+
+| Process label | Count | Meaning |
+|---|---:|---|
+| `loanword_noun/adjective` | 224 | borrowed whole (মিম, ক্রিঞ্জ, বেসিক) |
+| `semantic_equivalent` | 105 | native Bangla slang already carries the meaning (বকচাটামি ≈ bakchodi) |
+| `calque` | 103 | image translated literally (রুমের হাতি = elephant in the room) |
+| `loanword_verbalized_kora` | 34 | English stem + native verb **করা** (হাইপ করা) |
+| `cultural_adaptation` | 25 | remade for local context (*Karen* → কাকিমা-রাজনীতি) |
+| `loanword_verbalized_khaoa` | 10 | stem + **খাওয়া** "eat/suffer" (ট্রল খাওয়া, ব্লক খাওয়া) |
+| `loanword_verbalized_mara/deoa` | 4 | stem + **মারা/দেওয়া** (ফ্লেক্স মারা, প্রক্সি দেওয়া) |
+
+Plus **+31 gold-curated master entries** in a 20th category `anglicism_borrowings` (রিজ, ডেলুলু, নো ক্যাপ, সিগমা মালে, অরা পয়েন্ট, গ্যাসলাইট করা…) — master now **3,318 entries / 20 categories**.
+
+**Files:** `data/final/crosslingual_mappings.csv` · `.json` · `data/provenance/xlm_build_manifest.json` · UD evidence cache: `data/provenance/en_slang_ud_evidence.json` (if copied) — build scripts: `scripts/v32/`.
 
 ## 🔬 Methodology
 

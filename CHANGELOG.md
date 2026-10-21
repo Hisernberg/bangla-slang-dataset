@@ -1,5 +1,20 @@
 # Changelog
 
+## v3.2 — Cross-Lingual Reverse-Mapping Layer (2026-10-21)
+
+**3,318 verified entries (from 3,287) · 20 categories (from 19) · +505 cross-lingual mappings**
+
+### Added
+- **🌍 Cross-lingual reverse-mapping layer (XLM)** — 505 curated mappings from 10 source languages → Bangla (`data/final/crosslingual_mappings.csv/json`, 18 fields each):
+  - English 359 (core 313 + UK 31 + AU 15), Hindi 89, Urdu/Arabic/Persian 30, Korean 10, Japanese 10, Spanish 7.
+  - Each row pairs the **native Bangla equivalent** with the **code-mixed form** actually used in BD speech, and labels the borrowing route via `mapping_process`: `loanword_noun/adjective` (224), `semantic_equivalent` (105), `calque` (103), `loanword_verbalized_kora` (34), `cultural_adaptation` (25), `loanword_verbalized_khaoa` (10), `loanword_verbalized_mara/deoa` (4).
+  - Register, offensiveness 0–3, domain, Banglish + pure-Bangla usage examples, source-language example, process note, confidence.
+- **Urban Dictionary evidence (keyless API)** — top-voted definitions joined to 270/505 English source terms (`data/provenance/en_slang_ud_evidence.json`).
+- **122 `master_link` rows** connect mappings back to existing master lexicon entries (KS-ids).
+- **20th category `anglicism_borrowings`** — +31 gold-curated tier-1 entries (রিজ, ডেলুলু, মিড, নো ক্যাপ, ক্যাপ মারা, লকড ইন, ওপি, গোটেড, সিগমা মালে, অরা পয়েন্ট, রেশিও খাওয়া, রেড/গ্রিন ফ্ল্যাগ, ইক খাওয়া, বেঞ্চিং, ব্রেডক্রাম্বিং, সিচুয়েশনশিপ, গ্যাসলাইট করা, টাচ গ্রাস, ডুমস্ক্রল, ফোমো খাওয়া …).
+- Tavily key re-validated with discovery query; build scripts under `scripts/v32/` (6 XLM data files + builder + UD puller, all push-safe).
+
+
 ## v2.0 — The Big Expansion (2026-10-21)
 
 **3,142 verified entries (from 2,100) · 16 categories (from 10) · 20 fields (from 19)**

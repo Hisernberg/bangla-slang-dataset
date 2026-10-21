@@ -46,3 +46,28 @@ data/
 ├── provenance/                          # parsed upstream snapshots + API probe logs
 └── reference/                           # raw upstream files w/ license in filename
 ```
+
+## v3.2 — crosslingual_mappings schema (18 fields)
+
+`data/final/crosslingual_mappings.csv` — the reverse-mapping layer (slang of other languages → Bangla):
+
+| Field | Type | Description |
+|---|---|---|
+| `map_id` | str | `XLM-0001` … sequential |
+| `source_lang` | enum | en / en-GB / en-AU / hi / ur / ar / fa / ko / ja / es |
+| `source_term` | str | slang term in the source language (original script where applicable) |
+| `source_gloss_en` | str | English meaning of the source slang |
+| `bangla_native_equivalent` | str | native Bangla slang carrying the same meaning |
+| `bangla_codemixed_form` | str | the borrowed/code-mixed form actually used in BD speech |
+| `bangla_romanization` | str | romanization of the code-mixed form |
+| `mapping_process` | enum | loanword_noun · loanword_adjective · loanword_verbalized_kora/mara/khaoa/deoa · semantic_equivalent · calque · cultural_adaptation |
+| `register` | enum | informal · very informal · neutral |
+| `offensiveness` | int 0–3 | severity rating (same scale as master) |
+| `domain` | list `;`-joined | social_media, romance, gaming, campus, workplace, street, food, sports… |
+| `usage_example_banglish` | str | code-mixed example sentence as written on BD social media |
+| `usage_example_pure_bn` | str | the same idea in pure Bangla |
+| `example_source_lang` | str | example sentence in the source language (optional) |
+| `process_note` | str | why this mapping/process was chosen; contrastive notes |
+| `confidence` | enum | high / medium |
+| `source_evidence` | str | Urban Dictionary top definition (`UD#<defid>: …`) where available |
+| `master_link` | str | KS-id of the matching entry in the master lexicon, when present |

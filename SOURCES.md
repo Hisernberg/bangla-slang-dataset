@@ -130,3 +130,5 @@ r/bangladesh slang threads returned HTTP 403 (datacenter-IP block). No data take
 | 37 | Imgflip get_memes API | 100 meme templates (reference) | public API, attribution | https://imgflip.com/api |
 | 38 | LRCLIB wave-2 | +128 Bangla tracks, 2,529 slang-flagged lines | LRCLIB open lyrics DB | https://lrclib.net |
 | 39 | Telegram previews wave-2 | 50 messages (26 channels probed) | public t.me/s/ web previews | https://t.me/s/bdmemes |
+| 40 | Urban Dictionary public API (keyless) | top-voted definitions for 270/505 XLM English source terms | public API, quote-as-evidence | https://api.urbandictionary.com/v0/define |
+| 41 | Tavily wave-3 | key validation + reverse-mapping source discovery (EN slang↔BN lists) | factual discovery | https://tavily.com |
