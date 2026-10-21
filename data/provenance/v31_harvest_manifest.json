@@ -1,0 +1,91 @@
+{
+ "version": "3.1.0",
+ "built": "2026-10-21",
+ "pipeline": "scripts/v31/*.py (env-var-only, push-safe)",
+ "api_usage": {
+  "youtube_data_api_v3": {
+   "searches": 30,
+   "videos_enriched": 1099,
+   "comment_pages_mined": "~3,140 calls",
+   "quota_budget": "<9,500 units/day",
+   "videos": 1099,
+   "shorts": 194,
+   "comments": 239148
+  },
+  "tavily": {
+   "queries": 42,
+   "urls": 320,
+   "fulltext_ok": 88
+  },
+  "supadata": {
+   "transcripts_ok": 3,
+   "note": "free credits exhausted (206 payment-required afterwards)"
+  },
+  "firecrawl": {
+   "note": "priority-domain pass; queue empty after requests-scrape state marked blocked pages done"
+  },
+  "kaggle": {
+   "datasets": [
+    "jabedcse/baser-dataset (149MB, CC BY 4.0, 750 emotional clips → 672 encoded mp3)",
+    "infobayai/audio-call-center-bengali (1 speaker wav)"
+   ]
+  },
+  "hf_datasets_server": {
+   "datasets_probed": 34,
+   "working": 6,
+   "clips_saved": 252,
+   "meta_rows": 502,
+   "fleurs": "rows endpoint parquet scan-limit (840MB) — not fetchable"
+  },
+  "lrclib": {
+   "tracks": 128,
+   "mode": "q= search (artist_name mode returns empty)"
+  },
+  "edge_tts": {
+   "clips_total": 1380,
+   "new": 986,
+   "voices": [
+    "bn-BD-NabanitaNeural",
+    "bn-BD-PradeepNeural"
+   ]
+  },
+  "wiktionary": {
+   "titles": 1845,
+   "wikitext_fetched": 1845,
+   "slang_tagged_parsed": 123,
+   "tier2_added": 8
+  },
+  "telegram_previews": {
+   "channels_probed": 26,
+   "messages": 50
+  },
+  "imgflip": {
+   "templates": 100
+  }
+ },
+ "blocked_or_limited": [
+  "youtube-transcript-api & yt-dlp: datacenter IP bot-wall",
+  "youtube captions.download: requires OAuth (API-key listing only)",
+  "supadata: free credits exhausted mid-run",
+  "memegen.google.com: DNS resolution blocked in sandbox",
+  "facebook/instagram reels: no legitimate keyless access; YouTube Shorts used as proxy",
+  "HF google/fleurs rows: parquet scan-size limit",
+  "telegram API: api_hash without numeric api_id (unchanged)"
+ ],
+ "layers": {
+  "youtube_comments_v31": 239148,
+  "youtube_videos_v31": 1099,
+  "youtube_shorts_v31": 194,
+  "transcripts_v31": 3,
+  "usage_evidence_terms": 916,
+  "lyric_tracks_v31": 128,
+  "lyric_slang_lines": 2529,
+  "telegram_msgs_v31": 50,
+  "tts_clips": 1380,
+  "baser_emotion_clips": 672,
+  "callcenter_clips": 1,
+  "hf_speech_clips": 252,
+  "candidates_v31": 2529,
+  "audio_total_clips": 2303
+ }
+}

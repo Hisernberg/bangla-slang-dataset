@@ -120,3 +120,13 @@ r/bangladesh slang threads returned HTTP 403 (datacenter-IP block). No data take
 | 27 | ragibhasan/bangla_speech_corpus_v1 | 100 speech transcripts + metadata | no license stated — research attribution | https://huggingface.co/datasets/ragibhasan/bangla_speech_corpus_v1 |
 | 28 | RSS: BBC Bangla + Prothom Alo | 86 headlines (reference register) | public RSS feeds | https://feeds.bbci.co.uk/bengali/rss.xml |
 | 29 | Telegram public previews | 37 meme-channel messages (7 channels) | public t.me/s/ web previews | https://t.me/s/bangla_memes |
+| 30 | YouTube Data API v3 (v31 wave) | 239,148 comments / 1,099 videos / 194 Shorts | public data via YouTube ToS, quota-budgeted | https://developers.google.com/youtube/v3 |
+| 31 | Kaggle `jabedcse/baser-dataset` | 672 emotional-speech clips (5 emotions) | CC BY 4.0 | https://www.kaggle.com/datasets/jabedcse/baser-dataset |
+| 32 | Kaggle `infobayai/audio-call-center-bengali` | 1 call-center speaker dialogue | Kaggle dataset terms | https://www.kaggle.com/datasets/infobayai/audio-call-center-bengali |
+| 33 | HF `kawshikbuet17/bengali-telecom-customer-care-speech(-v2)` | 200 rows + 120 clips + transcripts | attribution (BUET student dataset) | https://huggingface.co/datasets/kawshikbuet17/bengali-telecom-customer-care-speech |
+| 34 | HF `vsrinivas/bengali_audio_files`, `arif11/Bengali_AI_Speech`, `Speech-data/*` | 52 clips + 302 meta rows | per-dataset terms | https://huggingface.co/datasets/vsrinivas/bengali_audio_files |
+| 35 | Tavily wave-2 (42 queries) | 320 source URLs / 88 full-text pages | factual extraction + deep links | https://tavily.com |
+| 36 | Wiktionary Bengali slang category tree | 1,845 titles → 123 slang-tagged entries (8 new) | CC BY-SA 3.0 / GFDL | https://en.wiktionary.org/wiki/Category:Bengali_slang |
+| 37 | Imgflip get_memes API | 100 meme templates (reference) | public API, attribution | https://imgflip.com/api |
+| 38 | LRCLIB wave-2 | +128 Bangla tracks, 2,529 slang-flagged lines | LRCLIB open lyrics DB | https://lrclib.net |
+| 39 | Telegram previews wave-2 | 50 messages (26 channels probed) | public t.me/s/ web previews | https://t.me/s/bdmemes |

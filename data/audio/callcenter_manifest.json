@@ -1,0 +1,9 @@
+[
+ {
+  "file": "callcenter_bn/cc_speaker00_0.mp3",
+  "dataset": "infobayai/audio-call-center-bengali",
+  "license": "Kaggle dataset terms",
+  "type": "call_center_dialogue",
+  "source": "kaggle infobayai/audio-call-center-bengali"
+ }
+]

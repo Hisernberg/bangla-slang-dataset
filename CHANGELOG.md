@@ -46,3 +46,22 @@
 
 ### Blocked (documented)
 - yt-dlp audio download (YouTube bot-wall on datacenter IPs), HF datasets-server rows for `google/fleurs` (persistent 503) and gated `Kathbath`/`common_voice_17_0`, Telegram Bot API (api_hash provided without api_id).
+
+## [3.1.0] — 2026-10-21 — Mega-corpus & Emotional-Tone expansion
+
+### Added
+- **💬 Comment mega-corpus**: 239,148 YouTube comments from 1,099 Bangla videos (26 search angles: roast, standup, gaming, campus, cricket reactions, street interviews, TikTok-viral) — `data/corpus/youtube/comments_bn_v31.jsonl.gz`.
+- **🔎 Usage evidence**: 916 lexicon terms now carry real-usage frequency + top-liked example comments mined from the 239K corpus — `data/corpus/usage_evidence.json`.
+- **❤️ Emotional-tone layer**: 672 BASER clips (CC BY 4.0) labeled ANGRY/SAD/HAPPY/FEAR/NEUTRAL with speaker metadata — `data/audio/emotion_baser/`.
+- **🗣️ Real-speech layer v2**: 252 clips + transcripts (telecom customer-care BUET corpora, community ASR sets), re-encoded 48 kbps mono — `data/audio/speech_samples/`, `callcenter_bn/`.
+- **🎧 TTS bank**: 230 → 1,380 neural pronunciation clips (tier-ranked coverage, 2 bn-BD voices).
+- **3 NEW categories** (+105 gold entries): `meme_internet_culture` (29), `genz_trending` (19), `corporate_workplace` (19); gaming +14, campus +9, Dhaka street +5.
+- **📖 Wiktionary deep-dive**: full 1,845-title Bengali slang category tree fetched + parsed → 123 slang-tagged entries (8 new tier-2), 2,529 slang-flagged lyric lines from 194 tracks.
+- **🎬 Shorts layer**: 194 Bangla Shorts metadata; **😂 memes**: 50 new Telegram messages (26 channels) + 100 Imgflip templates reference.
+- **🌐 Tavily wave-2**: 42 queries → 320 URLs → 88 full-text pages; candidate pool grown to 2,529 terms.
+
+### Sources
+- YouTube Data API v3 (~6K quota units), Tavily, Supadata, Firecrawl, Kaggle API (BASER, call-center), HF datasets-server (6 ungated bn speech datasets), LRCLIB, Edge-TTS, Telegram previews, Imgflip. Manifest: `data/provenance/v31_harvest_manifest.json`.
+
+### Blocked (documented)
+- youtube-transcript-api/yt-dlp (bot-wall), Supadata credits exhausted, HF `google/fleurs` rows (parquet scan limit), memegen (DNS), Telegram API (api_id still missing).

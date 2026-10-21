@@ -1,0 +1,6722 @@
+[
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_3_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_4_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_4_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_2_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_2_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_4_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_1_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_5_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_1_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_4_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_2_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_3_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_3_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_1_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_2_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_1_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_5_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_2_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_2_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_3_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_2_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_4_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_5_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_2_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_5_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_1_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_3_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_3_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_1_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_3_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_2_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_2_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_4_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_2_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_1_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_5_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_3_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_2_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_5_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_1_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_3_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_1_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_4_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_4_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_5_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_4_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_4_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_2_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_2_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_4_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_4_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_3_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_1_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_4_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_4_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_5_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_5_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_2_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_5_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_4_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_5_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_1_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_3_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_3_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_5_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_1_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_5_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_5_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_3_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_2_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_2_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_5_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_3_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_1_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_4_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_2_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_1_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_1_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_2_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_2_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_4_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_4_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_2_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_2_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_2_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_4_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_1_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_4_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_3_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_4_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_3_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_2_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_1_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_1_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_1_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_3_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_4_ANGRY_21.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "21",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_1_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_4_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_1_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_1_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_5_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_1_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_3_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_4_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_1_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_2_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_4_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_4_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_5_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_5_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_5_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_2_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_2_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_2_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_3_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_1_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_3_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_2_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_4_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_5_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_3_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_4_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_2_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_3_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_1_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_4_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_2_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_4_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_4_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_3_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_1_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_5_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_1_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_1_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_3_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_3_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_4_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_5_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_4_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_1_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_1_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_2_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_1_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_3_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_4_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_4_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_3_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_5_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_3_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_1_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_4_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_4_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_3_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_3_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_1_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_3_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_1_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_5_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_3_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_1_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_3_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_5_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_4_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_1_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_5_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_4_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_3_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_4_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_3_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_1_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_1_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_4_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_1_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_4_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_1_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_1_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_2_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_2_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_3_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_2_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_4_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_3_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_5_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_4_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_4_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_5_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_2_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_4_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_3_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_3_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_2_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_1_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_5_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_5_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_5_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_3_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_3_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_1_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_1_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_2_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_5_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_5_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_1_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_5_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_5_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_3_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_4_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_2_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_3_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_1_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_2_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_3_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_5_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_4_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_3_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_3_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_3_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_5_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_5_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_3_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_2_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_3_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_3_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_1_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_5_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_3_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_4_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_5_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_1_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_4_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_2_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_2_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_1_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_5_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_3_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_4_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_3_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_2_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_4_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_1_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_4_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_2_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_1_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_2_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_2_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_3_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_5_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_2_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_4_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_4_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_3_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_1_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_2_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_3_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_4_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_5_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_2_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_5_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_3_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_1_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_4_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_1_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_5_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_3_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_3_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_4_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_4_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_3_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_1_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_3_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_4_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_4_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_4_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_4_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_3_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_2_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_2_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_1_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_1_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_4_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_3_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_4_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_3_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_1_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_3_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_5_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_1_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_3_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_1_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_1_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_4_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_5_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_1_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_4_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_4_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_5_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_4_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_3_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_2_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_5_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_4_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_5_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_5_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_2_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_5_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_5_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_2_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_2_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_3_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_5_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_1_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_5_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_1_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_4_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_4_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_5_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_3_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_2_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_5_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_4_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_5_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_4_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_4_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_1_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_5_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_1_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_2_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_2_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_3_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_4_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_5_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_5_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_3_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_5_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_5_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_4_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_5_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_5_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_5_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_5_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_3_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_4_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_3_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_4_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_3_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_2_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_2_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_1_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_3_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_2_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_5_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_2_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_2_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_2_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_5_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_2_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_2_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_5_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_2_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_1_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_1_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_1_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_3_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_3_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_2_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_3_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_2_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_1_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_3_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_1_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_3_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_2_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_2_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_4_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_2_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_3_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_3_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_5_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_4_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_5_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_1_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_2_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_4_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_3_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_5_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_2_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_1_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_5_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_1_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_1_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_1_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_2_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_3_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_4_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_2_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_4_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_5_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_3_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_4_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_4_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_4_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_2_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_5_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_3_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_2_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_1_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_3_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_1_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_1_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_2_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_1_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_2_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_4_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_3_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_5_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_1_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_5_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_1_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_2_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_3_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_2_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_2_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_3_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_2_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_5_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_4_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_1_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_2_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_1_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_3_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_1_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_3_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_4_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_1_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_1_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_4_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_4_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_2_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_5_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_5_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_4_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_4_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_5_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_2_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_3_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_3_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_1_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_5_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_3_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_5_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_1_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_5_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_1_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_4_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_3_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_5_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_3_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_3_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_5_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_2_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_2_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_5_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_2_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_3_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_3_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_5_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_5_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_2_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_1_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_5_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_5_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_5_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_5_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_5_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_3_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_4_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_2_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_2_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_2_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_1_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_3_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_2_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_1_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_4_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_5_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_2_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_2_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_2_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_5_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_5_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_2_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_1_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_3_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_3_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_4_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_5_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_5_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_5_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_1_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_2_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_2_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_1_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_4_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_3_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_2_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_4_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_2_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_1_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_4_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_3_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_5_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_2_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_4_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_3_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_3_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_1_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_5_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_4_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_4_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_2_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_1_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_4_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_1_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_4_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_4_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_1_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_3_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_5_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_2_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_4_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_1_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_2_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_5_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_5_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_5_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_4_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_3_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_4_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_3_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_1_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_2_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_5_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_5_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_2_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_5_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_3_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_3_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_2_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_3_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_2_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_4_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_4_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_5_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_2_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_5_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_2_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_4_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_1_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_1_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_2_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_1_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_3_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_1_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_4_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_4_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_1_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_4_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_2_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_2_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_5_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_3_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_4_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_5_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_5_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_5_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_2_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_2_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_4_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_2_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_1_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_2_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_3_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_2_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_1_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_5_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_3_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_1_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_2_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_3_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_2_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_1_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_5_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_3_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_5_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_4_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_1_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_2_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_3_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_5_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_1_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_1_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_4_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_4_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_5_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_2_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_1_ANGRY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_1_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_3_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_2_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_4_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_1_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_3_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_2_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_4_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_1_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_4_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_1_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_5_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_2_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_5_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_1_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_5_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_2_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_5_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_2_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_1_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_2_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_5_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_1_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_3_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_4_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_5_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_5_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_5_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_3_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_4_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_3_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_4_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_3_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_2_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_3_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_1_HAPPY_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_1_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_1_ANGRY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_3_FEAR_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_4_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_3_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_2_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_4_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_5_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_2_MIFTA_S_3_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "2",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_4_TABASSUM_S_1_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_5_FEAR_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_5_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_3_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_4_NEUTRAL_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_4_HAPPY_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_4_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_5_JUHAYER_S_5_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "5",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_4_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_3_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_2_IRA_S_4_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "F",
+  "speaker_id": "2",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_1_HAPPY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "HAPPY",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_1_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_3_SAD_2.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "2",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_5_FEAR_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "FEAR",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_3_MAHMUD_S_4_ANGRY_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "ANGRY",
+  "speaker_sex": "M",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_1_CHAITY_S_3_SAD_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_1_HASAN_S_2_NEUTRAL_1.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "1",
+  "sentence_id": "1",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/F_3_MAHI_S_1_SAD_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "SAD",
+  "speaker_sex": "F",
+  "speaker_id": "3",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ },
+ {
+  "file": "emotion_baser/M_4_RIAD_S_1_NEUTRAL_3.mp3",
+  "dataset": "BASER",
+  "license": "CC BY 4.0",
+  "emotion": "NEUTRAL",
+  "speaker_sex": "M",
+  "speaker_id": "4",
+  "sentence_id": "3",
+  "source": "kaggle jabedcse/baser-dataset"
+ }
+]

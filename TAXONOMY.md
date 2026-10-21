@@ -69,3 +69,10 @@ Idioms functioning as slang: ঢোল পিটানো (beat your own drum), 
 - **Sylheti Nagri script (ꠡꠣꠉꠔꠝ꠆…)**: 14 Omniglot phrases entered in the native Sylheti script with romanization, stored under `regional_sylhet`; Bengali-script and Nagri-script entries co-exist with a `sylheti-nagri` tag.
 - **Usage-counted evidence**: the 6 Noakhali political gaalis carry real utterance counts from the 2016 viral audio (e.g. পুটকি মারা ×41) — see `source_url`.
 - **Corpus layer**: v3 adds raw usage corpora (comments/lyrics/memes/transcripts) so annotators can verify candidate terms in context; 400 frequency-verified candidates await tier-promotion.
+
+## v3.1 notes — three new style categories
+
+- **`meme_internet_culture` (29)** — words born in / amplified by Bangla meme pages and comment sections: চুজ্জ, হাব্যো, ভাইরাল খাওয়া, প্যানেল খাওয়া, কমেন্ট সৈনিক… Inclusion rule: attested in ≥1 meme/community context of the v3.1 corpus (239K comments) or curated from active meme-channel usage; excludes one-week-fad words without corpus presence.
+- **`genz_trending` (19)** — code-mixed Gen-Z register distinct from plain `banglish_codemixed`: ভাইব চেক, মুড অফ, পার্সোনাল খাওয়া, সেকেন্ড প্ল্যান… Inclusion rule: high-frequency youth usage 2020+, English frame with Bangla verb/noun adaptation (X খাওয়া / X করা / X মারা).
+- **`corporate_workplace` (19)** — office jargon used with ironic/slangy tone: বস প্লিজিং, মিটিং শেষে মিটিং, নোটিশ খাওয়া, ক্রাঞ্চ টাইম… Inclusion rule: workplace context + humorous/venting register rather than neutral technical terms.
+- **Tone-linkage**: the new `emotion_baser` audio layer (672 clips × 5 emotion labels) + 252 real-speech clips give the lexicon its first emotional-tone ground truth for the Culture & Tone track.
