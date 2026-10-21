@@ -1,0 +1,333 @@
+[
+ {
+  "full_name": "Sigmakib2/Nirmol",
+  "stars": 40,
+  "license": "",
+  "desc": "Nirmol is an open-source dataset and API for detecting Bangla slang words. Detect offensive/bad/slang words in Bangla/Bengali/Banglish sentences. A helpful API and dataset for developers and researchers.",
+  "url": "https://github.com/Sigmakib2/Nirmol",
+  "query": "banglish words",
+  "files_saved": 5,
+  "file_list": [
+   "README.md",
+   "datasets/Nirmol-v1-dataset.csv",
+   "input.txt",
+   "nirmol.json",
+   "package-lock.json",
+   "package.json",
+   "prefixes_suffixes.json"
+  ]
+ },
+ {
+  "full_name": "ItisShikhar/gg-friggin-ez",
+  "stars": 7,
+  "license": "MIT",
+  "desc": "Fast, drop-in multilingual profanity and toxicity screener for Node.js, powered by System 1 models like TypeSafe AI Jev and Laya. Catches leetspeak, character spacing, and romanized profanity across languages including Kannada, Telugu, Tamil, Hindi, and Bengali. ~50-500ms latency.",
+  "url": "https://github.com/ItisShikhar/gg-friggin-ez",
+  "query": "bengali profanity",
+  "files_saved": 4,
+  "file_list": [
+   "CODE_OF_CONDUCT.md",
+   "CONTRIBUTING.md",
+   "README.md",
+   "package-lock.json",
+   "package.json",
+   "raw-benchmarks.md",
+   "tsconfig.build.json",
+   "tsconfig.json"
+  ]
+ },
+ {
+  "full_name": "MSakibR/BanglaAccento",
+  "stars": 6,
+  "license": "",
+  "desc": "BanglaAccento: A benchmark dataset for Bangla regional dialect speech recognition, featuring 6,650 recordings from 49 native speakers across five dialect regions of Bangladesh for ASR, NLP, and dialect analysis.",
+  "url": "https://github.com/MSakibR/BanglaAccento",
+  "query": "bangla dialect dataset",
+  "files_saved": 8,
+  "file_list": [
+   "For_Dataset/metadata.csv",
+   "For_Dataset/metadata_speaker_mapping.csv",
+   "For_Dataset/model_output/evaluation_results_for_whisper_base.txt",
+   "For_Dataset/model_output/evaluation_results_for_whisper_small.txt",
+   "For_Dataset/splits/test.csv",
+   "For_Dataset/splits/train.csv",
+   "For_Dataset/splits/val.csv",
+   "README.md",
+   "metadata.csv"
+  ]
+ },
+ {
+  "full_name": "yasinahmedyzn/BanglaProfanityFilter",
+  "stars": 2,
+  "license": "GPL-3.0",
+  "desc": null,
+  "url": "https://github.com/yasinahmedyzn/BanglaProfanityFilter",
+  "query": "bangla profanity",
+  "files_saved": 6,
+  "file_list": [
+   "CONTRIBUTING.md",
+   "PRIVACY.md",
+   "README.md",
+   "dist/bookmarkletFilter.js.LICENSE.txt",
+   "dist/manifest.json",
+   "firebase.json",
+   "output/extension/bookmarkletFilter.js.LICENSE.txt",
+   "output/extension/manifest.json",
+   "package-lock.json",
+   "package.json",
+   "public/CONTRIBUTING.md",
+   "public/New folder/extension/bookmarkletFilter.js.LICENSE.txt",
+   "public/New folder/extension/manifest.json",
+   "public/PRIVACY.md",
+   "public/README.md"
+  ]
+ },
+ {
+  "full_name": "amirulsizan/deshi-slang",
+  "stars": 1,
+  "license": "MIT",
+  "desc": "Open Bengali (Bangla) slang & harmful-language dataset for moderation and safety research",
+  "url": "https://github.com/amirulsizan/deshi-slang",
+  "query": "bengali slang",
+  "files_saved": 5,
+  "file_list": [
+   "CODE_OF_CONDUCT.md",
+   "CONTRIBUTING.md",
+   "DATASET_CARD.md",
+   "README.md",
+   "data/labels_map.csv",
+   "data/profanity_dataset.jsonl",
+   "data/profanity_raw.txt",
+   "data/sample.jsonl",
+   "requirements.txt"
+  ]
+ },
+ {
+  "full_name": "kuntalojha/slangs",
+  "stars": 1,
+  "license": "MIT",
+  "desc": "A multilingual slang dictionary and random slang generator featuring English, Hindi, Bengali, Tamil, Telugu, Marathi, Odia, Assamese, French, Kannada, and more. Created by @kuntalojha as a fun open-source project for developers, language enthusiasts, and anyone interested in exploring slang across different languages.",
+  "url": "https://github.com/kuntalojha/slangs",
+  "query": "bengali slang",
+  "files_saved": 2,
+  "file_list": [
+   ".github/ISSUE_TEMPLATE/bug_report.md",
+   ".github/ISSUE_TEMPLATE/feature_request.md",
+   ".github/pull_request_template.md",
+   "CHANGELOG.md",
+   "CODE_OF_CONDUCT.md",
+   "CONTRIBUTING.md",
+   "README.md",
+   "SECURITY.md",
+   "package-lock.json",
+   "package.json"
+  ]
+ },
+ {
+  "full_name": "shubiour/Chittagong-Dictionary",
+  "stars": 1,
+  "license": "",
+  "desc": "This android app translate the English to Chittagonian words ,Bangla to Chittagonian words and Chittagonian words to Bangla words.",
+  "url": "https://github.com/shubiour/Chittagong-Dictionary",
+  "query": "chittagonian words",
+  "files_saved": 1,
+  "file_list": [
+   "README.md",
+   "app/google-services.json"
+  ]
+ },
+ {
+  "full_name": "Hisernberg/bangla-slang-dataset",
+  "stars": 0,
+  "license": "NOASSERTION",
+  "desc": "Kothar Rong (\u0995\u09a5\u09be\u09b0 \u09b0\u0999) \u2014 the open Bangla slang dataset: 10 style & regional categories, multi-source scraped + curated lexicon. ELITE Research Lab Dataset Competition 2026.",
+  "url": "https://github.com/Hisernberg/bangla-slang-dataset",
+  "query": "bangla dialect dataset",
+  "files_saved": 10,
+  "file_list": [
+   "CONTRIBUTING.md",
+   "README.md",
+   "SCHEMA.md",
+   "SOURCES.md",
+   "TAXONOMY.md",
+   "data/candidates/web_candidates_for_annotation.csv",
+   "data/candidates/web_candidates_for_annotation.json",
+   "data/final/bangla_slang_master.csv",
+   "data/final/bangla_slang_master.json",
+   "data/final/by_category/campus_student.csv",
+   "data/final/by_category/colloquial_dialectal.csv",
+   "data/final/by_category/entertainment_media.csv",
+   "data/final/by_category/internet_social.csv",
+   "data/final/by_category/profanity_curses.csv",
+   "data/final/by_category/regional_chattogram.csv"
+  ]
+ },
+ {
+  "full_name": "jahanOSTG/Bangla_Slang_Converter",
+  "stars": 0,
+  "license": "MIT",
+  "desc": null,
+  "url": "https://github.com/jahanOSTG/Bangla_Slang_Converter",
+  "query": "bangla slang",
+  "files_saved": 1,
+  "file_list": [
+   ".devcontainer/devcontainer.json",
+   "README.md",
+   "requirements.txt"
+  ]
+ },
+ {
+  "full_name": "Jawwad1233/Setu",
+  "stars": 0,
+  "license": "",
+  "desc": "Local Bangla-English translator with contextual slang support",
+  "url": "https://github.com/Jawwad1233/Setu",
+  "query": "bangla slang",
+  "files_saved": 9,
+  "file_list": [
+   "README.md",
+   "bengali_glossary.json",
+   "bengali_sources.md",
+   "context.lock.json",
+   "interpretation_hints.json",
+   "models.lock.json",
+   "requirements-context.lock.txt",
+   "requirements.lock.txt",
+   "requirements.txt",
+   "slang_glossary.json",
+   "slang_rules.json",
+   "speech.lock.json",
+   "translation_memory.json"
+  ]
+ },
+ {
+  "full_name": "SahilBachu/BangLang",
+  "stars": 0,
+  "license": "",
+  "desc": "Simple Python Transpiler that uses Bangalore English / Slang as keywords",
+  "url": "https://github.com/SahilBachu/BangLang",
+  "query": "bangla slang",
+  "files_saved": 4,
+  "file_list": [
+   "BangLang/.venv/Lib/site-packages/banglang-0.1.0.dist-info/direct_url.json",
+   "BangLang/.venv/Lib/site-packages/banglang-0.1.0.dist-info/entry_points.txt",
+   "BangLang/.venv/Lib/site-packages/banglang-0.1.0.dist-info/top_level.txt",
+   "BangLang/.venv/Lib/site-packages/pip-24.2.dist-info/AUTHORS.txt",
+   "BangLang/.venv/Lib/site-packages/pip-24.2.dist-info/LICENSE.txt",
+   "BangLang/.venv/Lib/site-packages/pip-24.2.dist-info/entry_points.txt",
+   "BangLang/.venv/Lib/site-packages/pip-24.2.dist-info/top_level.txt",
+   "BangLang/.venv/Lib/site-packages/pip/_vendor/vendor.txt",
+   "BangLang/.venv/Lib/site-packages/pkg_resources/api_tests.txt",
+   "BangLang/.venv/Lib/site-packages/pkg_resources/tests/data/my-test-package_unpacked-egg/my_test_package-1.0-py3.7.egg/EGG-INFO/SOURCES.txt",
+   "BangLang/.venv/Lib/site-packages/pkg_resources/tests/data/my-test-package_unpacked-egg/my_test_package-1.0-py3.7.egg/EGG-INFO/dependency_links.txt",
+   "BangLang/.venv/Lib/site-packages/pkg_resources/tests/data/my-test-package_unpacked-egg/my_test_package-1.0-py3.7.egg/EGG-INFO/top_level.txt",
+   "BangLang/.venv/Lib/site-packages/setuptools-80.9.0.dist-info/entry_points.txt",
+   "BangLang/.venv/Lib/site-packages/setuptools-80.9.0.dist-info/top_level.txt",
+   "BangLang/.venv/Lib/site-packages/setuptools/_vendor/autocommand-2.2.2.dist-info/top_level.txt"
+  ]
+ },
+ {
+  "full_name": "reja273/BanglaWordKit",
+  "stars": 0,
+  "license": "",
+  "desc": "A Comprehensive NLP Toolkit for Bangla Text Normalization, Standardization, and Conversion.  BanglaWordKit is a robust Python library designed to simplify Bangla Natural Language Processing (NLP) tasks. It provides ready-to-use tools for text normalization, slang removal(Normalizer), dialect conversion, and seamless integration between English and",
+  "url": "https://github.com/reja273/BanglaWordKit",
+  "query": "bangla slang",
+  "files_saved": 7,
+  "file_list": [
+   "BanglaWordKit/data/bagdhara_dataset.json",
+   "BanglaWordKit/data/banglish_to_bangla_word_dataset.json",
+   "BanglaWordKit/data/foreign_word_to_bangla_word_dataset.json",
+   "BanglaWordKit/data/shadhu_to_cholito_dataset.json",
+   "BanglaWordKit/data/slang_words_dataset.json",
+   "README.md",
+   "bagdhara_data_making/bagdhra_data_with_extra_space.json",
+   "bagdhara_data_making/scraped_bagdhara_data.json"
+  ]
+ },
+ {
+  "full_name": "anurag-panda-dev/KelaScript",
+  "stars": 0,
+  "license": "",
+  "desc": "A Bengali Slang based programming Language (Don't take it seriously)",
+  "url": "https://github.com/anurag-panda-dev/KelaScript",
+  "query": "bengali slang",
+  "files_saved": 9,
+  "file_list": [
+   "README.md",
+   "bin/keywords.md",
+   "docs/keyword.md",
+   "examples/keyword.md",
+   "vscode-extension/CHANGELOG.md",
+   "vscode-extension/README.md",
+   "vscode-extension/fileicons/theme.json",
+   "vscode-extension/kelascript/CHANGELOG.md",
+   "vscode-extension/kelascript/README.md",
+   "vscode-extension/kelascript/fileicons/theme.json",
+   "vscode-extension/kelascript/language-configuration.json",
+   "vscode-extension/kelascript/package.json",
+   "vscode-extension/kelascript/syntaxes/kela.tmLanguage.json",
+   "vscode-extension/kelascript/vsc-extension-quickstart.md",
+   "vscode-extension/language-configuration.json"
+  ]
+ },
+ {
+  "full_name": "ShifatHasanGNS/codemix-sentiment-analyzer",
+  "stars": 0,
+  "license": "",
+  "desc": "A comparative study of classical and neural NLP architectures \u2014 N-Gram, Bag-of-Words, TF-IDF, Word2Vec, ANN, RNN, LSTM, Attention, Transformer (from scratch, PyTorch), and a fine-tuned multilingual BERT \u2014 for sentiment classification of real e-commerce product reviews written in English, Bangla, Banglish, and Bangla\u2013English code-switched text.",
+  "url": "https://github.com/ShifatHasanGNS/codemix-sentiment-analyzer",
+  "query": "banglish words",
+  "files_saved": 5,
+  "file_list": [
+   "README.md",
+   "data/README.md",
+   "data/processed/test.csv",
+   "docs/Details.md",
+   "models_saved/tokenizer.json",
+   "requirements.txt",
+   "results/cv_summary.csv",
+   "results/error_analysis.md",
+   "results/metrics_comparison.csv"
+  ]
+ },
+ {
+  "full_name": "Sadab1522/Bangla-Six-Dialect-Dataset",
+  "stars": 0,
+  "license": "MIT",
+  "desc": null,
+  "url": "https://github.com/Sadab1522/Bangla-Six-Dialect-Dataset",
+  "query": "bangla dialect dataset",
+  "files_saved": 1,
+  "file_list": [
+   "Bangla_Six_Dialect_Dataset.csv",
+   "README.md"
+  ]
+ },
+ {
+  "full_name": "secrakib/Dwadash-Dataset",
+  "stars": 0,
+  "license": "Apache-2.0",
+  "desc": "Official repository for the Dwadash Benchmark Corpus: Unified Poly-Dialectal Neural Machine Translation for Bangla across 12 regional dialects using DoRA-adapted sequence-to-sequence models (arXiv:2608.12018)",
+  "url": "https://github.com/secrakib/Dwadash-Dataset",
+  "query": "bangla dialect dataset",
+  "files_saved": 14,
+  "file_list": [
+   "README.md",
+   "dataset/source_corpora/ancholik_ner/ancholik_ner_raw_sentences.csv",
+   "dataset/source_corpora/anubhuti/anubhuti_translated_texts.csv",
+   "dataset/source_corpora/bangladial/bangladial_merged_imbalanced.csv",
+   "dataset/source_corpora/bhasabodh/bhasabodh_raw.csv",
+   "dataset/source_corpora/chatgaiyya_alap/chatgaiyya_alap_v2.csv",
+   "dataset/source_corpora/vashantor/test/barishal_test.csv",
+   "dataset/source_corpora/vashantor/test/chittagong_test.csv",
+   "dataset/source_corpora/vashantor/test/mymensingh_test.csv",
+   "dataset/source_corpora/vashantor/test/noakhali_test.csv",
+   "dataset/source_corpora/vashantor/test/sylhet_test.csv",
+   "dataset/source_corpora/vashantor/train/barishal_train.csv",
+   "dataset/source_corpora/vashantor/train/chittagong_train.csv",
+   "dataset/source_corpora/vashantor/train/mymensingh_train.csv",
+   "dataset/source_corpora/vashantor/train/noakhali_train.csv"
+  ]
+ }
+]

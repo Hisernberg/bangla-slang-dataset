@@ -62,6 +62,36 @@ Every entry in Kothar Rong traces to a public source. This file lists them all, 
 
 No API key is committed to this repository; all collection scripts read keys from environment variables.
 
+
+## v2.0 additions
+
+### 9. kuntalojha/slangs (GitHub, MIT) — `kuntalojha_slangs_mit` (174 entries)
+Multi-language slang wordlist package; the Bengali array contributed 202 raw terms (174 unique after dedupe). License: MIT (integrated). https://github.com/kuntalojha/slangs
+
+### 10. zmsali/bangla-dialect-normalization (Hugging Face, Apache-2.0) — `hf_dialect_norm_apache2` (287 entries)
+Dialect↔standard Bangla sentence pairs (Barishal and other regions). Dialect words differing from the standard were mined with a recurrence filter, giving 287 regional dialect words with region tags. License: Apache-2.0 (integrated). https://huggingface.co/datasets/zmsali/bangla-dialect-normalization
+
+### 11. reja273/BanglaWordKit (GitHub, no license) — reference only
+slang↔clean-Bangla pairs (40) and shadhu→cholito pairs (3,781). No license found → kept in `data/reference/banglawordkit_slang_pairs_attribution_required.json`, attribution required; pairs quarantined as candidates, not integrated into the master. https://github.com/reja273/BanglaWordKit
+
+### 12. Sadab1522/Bangla-Six-Dialect-Dataset (GitHub, MIT) — reference only
+Sentence-level six-dialect corpus (Chittagong, Pabna, Noakhali, …). Kept as `data/reference/`. https://github.com/Sadab1522/Bangla-Six-Dialect-Dataset
+
+### 13. secrakib/Dwadash-Dataset (GitHub, Apache-2.0) — reference only
+Twelve-source dialect compilation (Chatgaiyya Alap, BanglaDial, Vashantor, Bhasabodh, Ancholik…). Git-LFS files not retrievable from the collection environment; manifest preserved. https://github.com/secrakib/Dwadash-Dataset
+
+### 14. Jawwad1233/Setu (GitHub, no license) — reference only
+248-entry English-slang glossary built for Bangladeshi translation (user-supplied definitions). Surveyed for Banglish usage patterns; not redistributed. https://github.com/Jawwad1233/Setu
+
+### 15. Kaggle corpora (v2) — referenced, not redistributed
+12 datasets downloaded for analysis: Bangla hate speech recognition, Bangla political comments, SentNoB (noisy-text sentiment), 11.5k Bangla news, "bleach" dialect corpus (Noakhali/Chittagong sentences), microblog POS lexicons, YouTube sentiment/emotion. https://www.kaggle.com/datasets (see manifest in provenance)
+
+### 16. Firecrawl v2 web harvest (v2) — `fc2_web_auto` candidates
+24 search queries (Bangla + English: বাংলা স্ল্যাং, বাগধারা, কুট্টি ভাষা, gen-z slang, gali lists, dialect word lists…) → 87 markdown pages → 9,553 auto-extracted candidates quarantined for annotation (tier 4).
+
+### 17. Reddit public JSON API — blocked, disclosed
+r/bangladesh slang threads returned HTTP 403 (datacenter-IP block). No data taken; documented in provenance.
+
 ## Data licensing summary
 
 | This dataset | Upstream | Terms honored |

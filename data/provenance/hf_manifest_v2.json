@@ -1,0 +1,424 @@
+[
+ {
+  "id": "Eftekhar/BHM-Bengali-Hateful-Memes",
+  "query": "bengali hate",
+  "downloads": 133,
+  "likes": 1,
+  "tags": [
+   "task_categories:other",
+   "task_categories:image-classification",
+   "task_categories:image-to-text",
+   "language:bn",
+   "license:mit",
+   "size_categories:1K<n<10K",
+   "format:csv",
+   "modality:image",
+   "modality:text",
+   "library:datasets",
+   "library:pandas",
+   "library:mlcroissant"
+  ],
+  "url": "https://huggingface.co/datasets/Eftekhar/BHM-Bengali-Hateful-Memes"
+ },
+ {
+  "id": "naimul011/BanglaToxicCommentsDB",
+  "query": "bangla toxic",
+  "downloads": 75,
+  "likes": 0,
+  "tags": [
+   "language:bn",
+   "size_categories:10K<n<100K",
+   "region:us",
+   "toxic comments"
+  ],
+  "url": "https://huggingface.co/datasets/naimul011/BanglaToxicCommentsDB"
+ },
+ {
+  "id": "zmsali/bangla-dialect-normalization",
+  "query": "bangla dialect",
+  "downloads": 65,
+  "likes": 0,
+  "tags": [
+   "task_categories:translation",
+   "language:bn",
+   "license:apache-2.0",
+   "size_categories:10K<n<100K",
+   "format:json",
+   "modality:text",
+   "library:datasets",
+   "library:pandas",
+   "library:polars",
+   "library:mlcroissant",
+   "region:us"
+  ],
+  "url": "https://huggingface.co/datasets/zmsali/bangla-dialect-normalization"
+ },
+ {
+  "id": "samim5669/bangla-regional-dialect-dataset",
+  "query": "bangla dialect",
+  "downloads": 54,
+  "likes": 0,
+  "tags": [
+   "size_categories:10K<n<100K",
+   "format:parquet",
+   "format:optimized-parquet",
+   "modality:text",
+   "library:datasets",
+   "library:pandas",
+   "library:polars",
+   "library:mlcroissant",
+   "region:us"
+  ],
+  "url": "https://huggingface.co/datasets/samim5669/bangla-regional-dialect-dataset"
+ },
+ {
+  "id": "mteb/BengaliHateSpeechClassification",
+  "query": "bengali hate",
+  "downloads": 52,
+  "likes": 0,
+  "tags": [
+   "task_categories:text-classification",
+   "task_ids:sentiment-analysis",
+   "task_ids:sentiment-scoring",
+   "task_ids:sentiment-classification",
+   "task_ids:hate-speech-detection",
+   "annotations_creators:expert-annotated",
+   "multilinguality:monolingual",
+   "language:ben",
+   "license:mit",
+   "size_categories:1K<n<10K",
+   "format:parquet",
+   "modality:text"
+  ],
+  "url": "https://huggingface.co/datasets/mteb/BengaliHateSpeechClassification"
+ },
+ {
+  "id": "Lots-of-LoRAs/task1494_bengali_hate_speech_classification",
+  "query": "bengali hate",
+  "downloads": 39,
+  "likes": 0,
+  "tags": [
+   "task_categories:text-generation",
+   "annotations_creators:crowdsourced",
+   "language_creators:crowdsourced",
+   "language:en",
+   "license:apache-2.0",
+   "size_categories:1K<n<10K",
+   "format:parquet",
+   "modality:text",
+   "library:datasets",
+   "library:pandas",
+   "library:mlcroissant",
+   "library:polars"
+  ],
+  "url": "https://huggingface.co/datasets/Lots-of-LoRAs/task1494_bengali_hate_speech_classification"
+ },
+ {
+  "id": "fahim-ling/Sylheti-Bangla-English-Russian-German-Parallel-Corpus-for-NLP",
+  "query": "sylheti",
+  "downloads": 36,
+  "likes": 1,
+  "tags": [
+   "task_categories:translation",
+   "language:syl",
+   "language:bn",
+   "language:en",
+   "language:ru",
+   "language:de",
+   "license:cc-by-nc-4.0",
+   "size_categories:n<1K",
+   "format:csv",
+   "modality:text",
+   "library:datasets",
+   "library:dask"
+  ],
+  "url": "https://huggingface.co/datasets/fahim-ling/Sylheti-Bangla-English-Russian-German-Parallel-Corpus-for-NLP"
+ },
+ {
+  "id": "Yanjo/bengali-hate-speech-dataset",
+  "query": "bengali hate",
+  "downloads": 29,
+  "likes": 0,
+  "tags": [
+   "language:bn",
+   "license:apache-2.0",
+   "size_categories:10K<n<100K",
+   "format:csv",
+   "modality:text",
+   "library:datasets",
+   "library:pandas",
+   "library:mlcroissant",
+   "library:polars",
+   "region:us",
+   "toxicity",
+   "hatespeech"
+  ],
+  "url": "https://huggingface.co/datasets/Yanjo/bengali-hate-speech-dataset"
+ },
+ {
+  "id": "Lots-of-LoRAs/task1490_bengali_personal_hate_speech_binary_classification",
+  "query": "bengali hate",
+  "downloads": 25,
+  "likes": 0,
+  "tags": [
+   "task_categories:text-generation",
+   "annotations_creators:crowdsourced",
+   "language_creators:crowdsourced",
+   "language:en",
+   "license:apache-2.0",
+   "size_categories:1K<n<10K",
+   "format:parquet",
+   "modality:text",
+   "library:datasets",
+   "library:pandas",
+   "library:mlcroissant",
+   "library:polars"
+  ],
+  "url": "https://huggingface.co/datasets/Lots-of-LoRAs/task1490_bengali_personal_hate_speech_binary_classification"
+ },
+ {
+  "id": "sadi2oo3q/Bengali_hate_speech_dataset",
+  "query": "bengali hate",
+  "downloads": 21,
+  "likes": 0,
+  "tags": [
+   "size_categories:10K<n<100K",
+   "format:csv",
+   "modality:text",
+   "library:datasets",
+   "library:pandas",
+   "library:polars",
+   "library:mlcroissant",
+   "region:us"
+  ],
+  "url": "https://huggingface.co/datasets/sadi2oo3q/Bengali_hate_speech_dataset"
+ },
+ {
+  "id": "Lots-of-LoRAs/task1492_bengali_religious_hate_speech_binary_classification",
+  "query": "bengali hate",
+  "downloads": 20,
+  "likes": 0,
+  "tags": [
+   "task_categories:text-generation",
+   "annotations_creators:crowdsourced",
+   "language_creators:crowdsourced",
+   "language:en",
+   "license:apache-2.0",
+   "size_categories:1K<n<10K",
+   "format:parquet",
+   "modality:text",
+   "library:datasets",
+   "library:pandas",
+   "library:mlcroissant",
+   "library:polars"
+  ],
+  "url": "https://huggingface.co/datasets/Lots-of-LoRAs/task1492_bengali_religious_hate_speech_binary_classification"
+ },
+ {
+  "id": "Lots-of-LoRAs/task1491_bengali_political_hate_speech_binary_classification",
+  "query": "bengali hate",
+  "downloads": 19,
+  "likes": 0,
+  "tags": [
+   "task_categories:text-generation",
+   "annotations_creators:crowdsourced",
+   "language_creators:crowdsourced",
+   "language:en",
+   "license:apache-2.0",
+   "size_categories:1K<n<10K",
+   "format:parquet",
+   "modality:text",
+   "library:datasets",
+   "library:pandas",
+   "library:mlcroissant",
+   "library:polars"
+  ],
+  "url": "https://huggingface.co/datasets/Lots-of-LoRAs/task1491_bengali_political_hate_speech_binary_classification"
+ },
+ {
+  "id": "supergoose/flan_combined_task1494_bengali_hate_speech_classification",
+  "query": "bengali hate",
+  "downloads": 18,
+  "likes": 0,
+  "tags": [
+   "size_categories:1K<n<10K",
+   "format:parquet",
+   "modality:text",
+   "library:datasets",
+   "library:pandas",
+   "library:mlcroissant",
+   "library:polars",
+   "region:us"
+  ],
+  "url": "https://huggingface.co/datasets/supergoose/flan_combined_task1494_bengali_hate_speech_classification"
+ },
+ {
+  "id": "Lots-of-LoRAs/task1493_bengali_geopolitical_hate_speech_binary_classification",
+  "query": "bengali hate",
+  "downloads": 17,
+  "likes": 0,
+  "tags": [
+   "task_categories:text-generation",
+   "annotations_creators:crowdsourced",
+   "language_creators:crowdsourced",
+   "language:en",
+   "license:apache-2.0",
+   "size_categories:1K<n<10K",
+   "format:parquet",
+   "modality:text",
+   "library:datasets",
+   "library:pandas",
+   "library:mlcroissant",
+   "library:polars"
+  ],
+  "url": "https://huggingface.co/datasets/Lots-of-LoRAs/task1493_bengali_geopolitical_hate_speech_binary_classification"
+ },
+ {
+  "id": "kit-nlp/Vulgar_Lexicon_of_Chittagonian_Dialect_of_Bangla_or_Bengali",
+  "query": "chittagonian",
+  "downloads": 17,
+  "likes": 1,
+  "tags": [
+   "task_categories:text-classification",
+   "language:bn",
+   "license:apache-2.0",
+   "size_categories:1K<n<10K",
+   "format:csv",
+   "modality:text",
+   "library:datasets",
+   "library:pandas",
+   "library:mlcroissant",
+   "library:polars",
+   "doi:10.57967/hf/1296",
+   "region:us"
+  ],
+  "url": "https://huggingface.co/datasets/kit-nlp/Vulgar_Lexicon_of_Chittagonian_Dialect_of_Bangla_or_Bengali"
+ },
+ {
+  "id": "supergoose/flan_combined_task1490_bengali_personal_hate_speech_binary_classification",
+  "query": "bengali hate",
+  "downloads": 16,
+  "likes": 0,
+  "tags": [
+   "size_categories:10K<n<100K",
+   "format:parquet",
+   "modality:text",
+   "library:datasets",
+   "library:pandas",
+   "library:mlcroissant",
+   "library:polars",
+   "region:us"
+  ],
+  "url": "https://huggingface.co/datasets/supergoose/flan_combined_task1490_bengali_personal_hate_speech_binary_classification"
+ },
+ {
+  "id": "mteb/bengali_hate_speech",
+  "query": "bengali hate",
+  "downloads": 14,
+  "likes": 0,
+  "tags": [
+   "size_categories:1K<n<10K",
+   "format:parquet",
+   "modality:text",
+   "library:datasets",
+   "library:pandas",
+   "library:mlcroissant",
+   "library:polars",
+   "region:us"
+  ],
+  "url": "https://huggingface.co/datasets/mteb/bengali_hate_speech"
+ },
+ {
+  "id": "TanjimKIT/Vulgar_Lexicon_of_Chittagonian_Dialect_of_Bangla_or_Bengali",
+  "query": "chittagonian",
+  "downloads": 12,
+  "likes": 1,
+  "tags": [
+   "task_categories:text-classification",
+   "language:bn",
+   "license:apache-2.0",
+   "size_categories:1K<n<10K",
+   "format:csv",
+   "modality:text",
+   "library:datasets",
+   "library:pandas",
+   "library:mlcroissant",
+   "library:polars",
+   "doi:10.57967/hf/1297",
+   "region:us"
+  ],
+  "url": "https://huggingface.co/datasets/TanjimKIT/Vulgar_Lexicon_of_Chittagonian_Dialect_of_Bangla_or_Bengali"
+ },
+ {
+  "id": "supergoose/flan_combined_task1492_bengali_religious_hate_speech_binary_classification",
+  "query": "bengali hate",
+  "downloads": 9,
+  "likes": 0,
+  "tags": [
+   "size_categories:1K<n<10K",
+   "format:parquet",
+   "modality:text",
+   "library:datasets",
+   "library:pandas",
+   "library:mlcroissant",
+   "library:polars",
+   "region:us"
+  ],
+  "url": "https://huggingface.co/datasets/supergoose/flan_combined_task1492_bengali_religious_hate_speech_binary_classification"
+ },
+ {
+  "id": "TanjimKIT/Cyberbullying-detection-in-Chittagonian-dialect-of-Bangla-CBDCB",
+  "query": "chittagonian",
+  "downloads": 7,
+  "likes": 2,
+  "tags": [
+   "task_categories:text-classification",
+   "language:bn",
+   "license:apache-2.0",
+   "size_categories:1K<n<10K",
+   "format:csv",
+   "modality:tabular",
+   "modality:text",
+   "library:datasets",
+   "library:pandas",
+   "library:mlcroissant",
+   "library:polars",
+   "doi:10.57967/hf/1225"
+  ],
+  "url": "https://huggingface.co/datasets/TanjimKIT/Cyberbullying-detection-in-Chittagonian-dialect-of-Bangla-CBDCB"
+ },
+ {
+  "id": "supergoose/flan_combined_task1491_bengali_political_hate_speech_binary_classification",
+  "query": "bengali hate",
+  "downloads": 4,
+  "likes": 0,
+  "tags": [
+   "size_categories:1K<n<10K",
+   "format:parquet",
+   "modality:text",
+   "library:datasets",
+   "library:pandas",
+   "library:mlcroissant",
+   "library:polars",
+   "region:us"
+  ],
+  "url": "https://huggingface.co/datasets/supergoose/flan_combined_task1491_bengali_political_hate_speech_binary_classification"
+ },
+ {
+  "id": "Kshitij-Priyankar/flan_combined_task1494_bengali_hate_speech_classification",
+  "query": "bengali hate",
+  "downloads": 0,
+  "likes": 0,
+  "tags": [
+   "size_categories:1K<n<10K",
+   "format:parquet",
+   "modality:text",
+   "library:datasets",
+   "library:pandas",
+   "library:polars",
+   "library:mlcroissant",
+   "region:us"
+  ],
+  "url": "https://huggingface.co/datasets/Kshitij-Priyankar/flan_combined_task1494_bengali_hate_speech_classification"
+ }
+]

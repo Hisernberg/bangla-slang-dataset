@@ -1,0 +1,28 @@
+[
+ {
+  "full_name": "secrakib/Dwadash-Dataset",
+  "stars": 0,
+  "license": "Apache-2.0",
+  "desc": "Official repository for the Dwadash Benchmark Corpus: Unified Poly-Dialectal Neural Machine Translation for Bangla across 12 regional dialects using DoRA-adapted sequence-to-sequence models (arXiv:2608.12018)",
+  "url": "https://github.com/secrakib/Dwadash-Dataset",
+  "query": "bangla dialect dataset",
+  "files_saved": 14,
+  "file_list": [
+   "README.md",
+   "dataset/source_corpora/ancholik_ner/ancholik_ner_raw_sentences.csv",
+   "dataset/source_corpora/anubhuti/anubhuti_translated_texts.csv",
+   "dataset/source_corpora/bangladial/bangladial_merged_imbalanced.csv",
+   "dataset/source_corpora/bhasabodh/bhasabodh_raw.csv",
+   "dataset/source_corpora/chatgaiyya_alap/chatgaiyya_alap_v2.csv",
+   "dataset/source_corpora/vashantor/test/barishal_test.csv",
+   "dataset/source_corpora/vashantor/test/chittagong_test.csv",
+   "dataset/source_corpora/vashantor/test/mymensingh_test.csv",
+   "dataset/source_corpora/vashantor/test/noakhali_test.csv",
+   "dataset/source_corpora/vashantor/test/sylhet_test.csv",
+   "dataset/source_corpora/vashantor/train/barishal_train.csv",
+   "dataset/source_corpora/vashantor/train/chittagong_train.csv",
+   "dataset/source_corpora/vashantor/train/mymensingh_train.csv",
+   "dataset/source_corpora/vashantor/train/noakhali_train.csv"
+  ]
+ }
+]

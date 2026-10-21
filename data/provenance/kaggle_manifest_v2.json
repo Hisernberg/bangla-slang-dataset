@@ -1,0 +1,389 @@
+[
+ {
+  "ref": "tahmidmir/text-classification-based-on-the-bd-newspaper",
+  "title": "Text Classification based on the  BD newspaper.",
+  "size": 642290703,
+  "votes": 156,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/tahmidmir/text-classification-based-on-the-bd-newspaper",
+  "query": "bengali text"
+ },
+ {
+  "ref": "tahmidmir/largesentimentdata",
+  "title": "Large Sentiment Analysis Bangla Dataset",
+  "size": 275593,
+  "votes": 153,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/tahmidmir/largesentimentdata",
+  "query": "bangla toxic"
+ },
+ {
+  "ref": "mdismielhossenabir/bengali-text-datasets-of-various-topics",
+  "title": "Bengali Text Datasets of Various Topics",
+  "size": 179141,
+  "votes": 66,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/mdismielhossenabir/bengali-text-datasets-of-various-topics",
+  "query": "bengali text"
+ },
+ {
+  "ref": "durjoychandrapaul/over-11500-bangla-news-for-nlp",
+  "title": "Over 11,500 Bangla News for NLP",
+  "size": 4120031,
+  "votes": 59,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/durjoychandrapaul/over-11500-bangla-news-for-nlp",
+  "query": "bengali text"
+ },
+ {
+  "ref": "durjoychandrapaul/bangla-political-comments-dataset-for-nlp-tasks",
+  "title": " Bangla Dataset on Youtube Political Comments |NLP",
+  "size": 40166,
+  "votes": 34,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/durjoychandrapaul/bangla-political-comments-dataset-for-nlp-tasks",
+  "query": "bengali text"
+ },
+ {
+  "ref": "cryptexcode/sentnob-sentiment-analysis-in-noisy-bangla-texts",
+  "title": "SentNoB",
+  "size": 881270,
+  "votes": 34,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/cryptexcode/sentnob-sentiment-analysis-in-noisy-bangla-texts",
+  "query": "bangla sentiment"
+ },
+ {
+  "ref": "joebeachcapital/handwritten-text-recognition-bongabdo",
+  "title": "Handwritten Text Recognition (Bongabdo)",
+  "size": 154507528,
+  "votes": 17,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/joebeachcapital/handwritten-text-recognition-bongabdo",
+  "query": "bengali text"
+ },
+ {
+  "ref": "wchowdhu/bengali-sentiment-analysis-microblog-posts",
+  "title": "Bangla Sentiment Analysis + Microblog Posts",
+  "size": 74749,
+  "votes": 15,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/wchowdhu/bengali-sentiment-analysis-microblog-posts",
+  "query": "bangla sentiment"
+ },
+ {
+  "ref": "koushikrudra/bleach-clean-dataset",
+  "title": "Dialect Based Bangla Language dataset",
+  "size": 5550529,
+  "votes": 14,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/koushikrudra/bleach-clean-dataset",
+  "query": "bengali text"
+ },
+ {
+  "ref": "islamic/bangla-hate-speech-recognition",
+  "title": "Bangla Hate Speech recognition",
+  "size": 236148,
+  "votes": 13,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/islamic/bangla-hate-speech-recognition",
+  "query": "bangla hate speech"
+ },
+ {
+  "ref": "nit003/bangla-youtube-sentiment-and-emotion-datasets",
+  "title": "Bangla YouTube Sentiment and Emotion datasets",
+  "size": 439462,
+  "votes": 12,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/nit003/bangla-youtube-sentiment-and-emotion-datasets",
+  "query": "bengali abusive"
+ },
+ {
+  "ref": "aklimarimi/bangla-sentiment-classified",
+  "title": "Bangla Sentiment Classified",
+  "size": 4224,
+  "votes": 8,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/aklimarimi/bangla-sentiment-classified",
+  "query": "bangla sentiment"
+ },
+ {
+  "ref": "tanzinabdul/bangla-movie-and-drama-comments-sentiment-dataset",
+  "title": "Bangla Movie, Drama Comments Sentiment Dataset 9K",
+  "size": 325355,
+  "votes": 7,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/tanzinabdul/bangla-movie-and-drama-comments-sentiment-dataset",
+  "query": "bangla sentiment"
+ },
+ {
+  "ref": "mdayonmia1804128/banhateme-dataset",
+  "title": "BanHateMe Dataset",
+  "size": 361895386,
+  "votes": 6,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/mdayonmia1804128/banhateme-dataset",
+  "query": "bengali abusive"
+ },
+ {
+  "ref": "miadul/toxic-comments-detection-dataset",
+  "title": " Social Media Toxic Comment Dataset",
+  "size": 1166650,
+  "votes": 6,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/miadul/toxic-comments-detection-dataset",
+  "query": "bangla hate speech"
+ },
+ {
+  "ref": "mdabdullahalkafi/boishommo-multi-label-hate-speech-dataset",
+  "title": "BOISHOMMO: Multi Label Bangla Hate Speech Dataset",
+  "size": 368572,
+  "votes": 5,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/mdabdullahalkafi/boishommo-multi-label-hate-speech-dataset",
+  "query": "bengali abusive"
+ },
+ {
+  "ref": "kilimannejaro/siyam-rupali-text",
+  "title": "Siyam Rupali font for Bengali language",
+  "size": 183772,
+  "votes": 5,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/kilimannejaro/siyam-rupali-text",
+  "query": "bengali text"
+ },
+ {
+  "ref": "faridmiah/banglasentimentanalysis",
+  "title": "Bangla-Sentiment-Analysis",
+  "size": 1056563,
+  "votes": 5,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/faridmiah/banglasentimentanalysis",
+  "query": "bangla sentiment"
+ },
+ {
+  "ref": "saurabhshahane/bengali-sentiment-classification",
+  "title": "Bengali Sentiment Classification",
+  "size": 492180,
+  "votes": 5,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/saurabhshahane/bengali-sentiment-classification",
+  "query": "bangla sentiment"
+ },
+ {
+  "ref": "tanveerbelaliut/multi-labeled-bengali-toxic-comments",
+  "title": "Multi Labeled Bengali Toxic Comments",
+  "size": 925945,
+  "votes": 4,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/tanveerbelaliut/multi-labeled-bengali-toxic-comments",
+  "query": "bengali abusive"
+ },
+ {
+  "ref": "sarcasticpsycho/bangla-hate-speech-detection-from-videos",
+  "title": "Bangla Hate Speech Detection From Videos",
+  "size": 238655,
+  "votes": 4,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/sarcasticpsycho/bangla-hate-speech-detection-from-videos",
+  "query": "bangla hate speech"
+ },
+ {
+  "ref": "mdnishatraihan/code-mixed-sentiment-bangla-english-hindi",
+  "title": "Code Mixed Sentiment [Bangla-English-Hindi]",
+  "size": 31311608,
+  "votes": 4,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/mdnishatraihan/code-mixed-sentiment-bangla-english-hindi",
+  "query": "bangla sentiment"
+ },
+ {
+  "ref": "sabbir5622r/july-revolution-sentiment-analysis-dataset-bangla",
+  "title": "July Revolution Sentiment Analysis Dataset Bangla",
+  "size": 157354,
+  "votes": 4,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/sabbir5622r/july-revolution-sentiment-analysis-dataset-bangla",
+  "query": "bangla sentiment"
+ },
+ {
+  "ref": "nasiruddin123/bangla-book-review-dataset",
+  "title": "Bangla book review sentiment analysis dataset",
+  "size": 1324567,
+  "votes": 4,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/nasiruddin123/bangla-book-review-dataset",
+  "query": "bangla sentiment"
+ },
+ {
+  "ref": "farhanarrafi/bangladial-a-dataset-for-bengali-dialect-analysis",
+  "title": "BanglaDial: A Dataset for Bengali Dialect analysis",
+  "size": 4840598,
+  "votes": 4,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/farhanarrafi/bangladial-a-dataset-for-bengali-dialect-analysis",
+  "query": "bengali dialect"
+ },
+ {
+  "ref": "orvile/alert-linguistic-extremism-in-religious-text",
+  "title": "ALERT - Linguistic Extremism in Religious Text",
+  "size": 1316175,
+  "votes": 3,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/orvile/alert-linguistic-extremism-in-religious-text",
+  "query": "bangla hate speech"
+ },
+ {
+  "ref": "hasanmoni/bengali-text-summarization",
+  "title": "Bengali Text Summarization",
+  "size": 94078955,
+  "votes": 3,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/hasanmoni/bengali-text-summarization",
+  "query": "bengali text"
+ },
+ {
+  "ref": "kowshirbitto/bangla-ecommerce-sentiment",
+  "title": "Bangla E-Commerce Sentiment",
+  "size": 90743,
+  "votes": 3,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/kowshirbitto/bangla-ecommerce-sentiment",
+  "query": "bangla sentiment"
+ },
+ {
+  "ref": "mizan116/suspicious-bengali-text-slang",
+  "title": "Suspicious Bengali Text (Slang)",
+  "size": 3692759,
+  "votes": 2,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/mizan116/suspicious-bengali-text-slang",
+  "query": "bengali slang"
+ },
+ {
+  "ref": "mdashrafulislam1998/bangla-financial-lexicon-data-dictionary",
+  "title": "Bangla Financial lexicon Sentiment dictionary ",
+  "size": 60849,
+  "votes": 2,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/mdashrafulislam1998/bangla-financial-lexicon-data-dictionary",
+  "query": "bangla sentiment"
+ },
+ {
+  "ref": "smnuruzzaman/facebook-sentiment-analysis-bangla-language",
+  "title": "Facebook sentiment analysis Bangla language",
+  "size": 4957438,
+  "votes": 2,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/smnuruzzaman/facebook-sentiment-analysis-bangla-language",
+  "query": "bangla comments facebook"
+ },
+ {
+  "ref": "sumitsarkar969/toxicity-and-hate-speech-bangali-english-dataset",
+  "title": "Toxicity and Hate Speech Bangali-English dataset",
+  "size": 119674,
+  "votes": 1,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/sumitsarkar969/toxicity-and-hate-speech-bangali-english-dataset",
+  "query": "bangla hate speech"
+ },
+ {
+  "ref": "rrokon/daraz-bd-reviews-bengalibanglish-nlp",
+  "title": "Daraz BD Reviews \u2014 Bengali/Banglish NLP",
+  "size": 419482,
+  "votes": 1,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/rrokon/daraz-bd-reviews-bengalibanglish-nlp",
+  "query": "bengali nlp"
+ },
+ {
+  "ref": "parthaaghosh/large-bangla-sentiment-dataset",
+  "title": "Large Bangla Sentiment Dataset",
+  "size": 14689290,
+  "votes": 1,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/parthaaghosh/large-bangla-sentiment-dataset",
+  "query": "bangla sentiment"
+ },
+ {
+  "ref": "rayhankazi/facebook-political-comments-dataset-bangladesh",
+  "title": "Facebook Political Comments Dataset Bangladesh",
+  "size": 1301378,
+  "votes": 1,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/rayhankazi/facebook-political-comments-dataset-bangladesh",
+  "query": "bangla comments facebook"
+ },
+ {
+  "ref": "shahin21/bangladesh-cricket-board-facebook-page-comments",
+  "title": "Bangladesh Cricket Board facebook page comments",
+  "size": 156234,
+  "votes": 1,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/shahin21/bangladesh-cricket-board-facebook-page-comments",
+  "query": "bangla comments facebook"
+ },
+ {
+  "ref": "arkabhattachajee01/bengali-hate-speach-with-slangs-dataset",
+  "title": "Bengali Hate Speach With Slangs DataSet",
+  "size": 50440,
+  "votes": 0,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/arkabhattachajee01/bengali-hate-speach-with-slangs-dataset",
+  "query": "bengali slang"
+ },
+ {
+  "ref": "programminghero009/bangla-toxic",
+  "title": "Multi-Labeled Bengali Toxic Comments Dataset",
+  "size": 925016,
+  "votes": 0,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/programminghero009/bangla-toxic",
+  "query": "bengali abusive"
+ },
+ {
+  "ref": "niloydata/bangla-hate-speech-dataset",
+  "title": "Bangla Hate Speech Dataset",
+  "size": 804540,
+  "votes": 0,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/niloydata/bangla-hate-speech-dataset",
+  "query": "bangla hate speech"
+ },
+ {
+  "ref": "raselmeya/bengali-text-classification-dataset",
+  "title": "Bengali Text Classification Dataset",
+  "size": 2992074,
+  "votes": 0,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/raselmeya/bengali-text-classification-dataset",
+  "query": "bangla hate speech"
+ },
+ {
+  "ref": "jubairsami/benchmarking-bengali-dialectal-bias-benchmark",
+  "title": "Benchmarking Bengali Dialectal Bias Benchmark",
+  "size": 46861,
+  "votes": 0,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/jubairsami/benchmarking-bengali-dialectal-bias-benchmark",
+  "query": "bengali dialect"
+ },
+ {
+  "ref": "mizanurrahmanrafi/bangliandialectllm-qa",
+  "title": "BanglianDialectLLM-QA",
+  "size": 93675,
+  "votes": 0,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/mizanurrahmanrafi/bangliandialectllm-qa",
+  "query": "bengali dialect"
+ },
+ {
+  "ref": "hassanemehdi/bengali-to-ctgdialect",
+  "title": "Bengali_to_CTGDialect",
+  "size": 1071454,
+  "votes": 0,
+  "download_url": "",
+  "url": "https://www.kaggle.com/datasets/hassanemehdi/bengali-to-ctgdialect",
+  "query": "bengali dialect"
+ }
+]

@@ -1,0 +1,44 @@
+{
+ "scrapegraph@https://api.scrapegraphai.com/v1/smartscraper": {
+  "url": "https://api.scrapegraphai.com/v1/smartscraper",
+  "err": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1010)>"
+ },
+ "scrapegraph@https://api.scrapegraphai.com/v2/smartscraper": {
+  "url": "https://api.scrapegraphai.com/v2/smartscraper",
+  "err": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1010)>"
+ },
+ "browseai@https://api.browse.ai/v2/robots": {
+  "status": 401,
+  "err": "{\"statusCode\":401,\"messageCode\":\"unauthorized\"}"
+ },
+ "browseai@https://api.browse.ai/v2/tasks": {
+  "status": 403,
+  "err": "{\"message\":\"Invalid key=value pair (missing equal-sign) in Authorization header (hashed with SHA-256 and encoded with Base64): 'aFmUH8/LEva1y+Bl1bkvrQPX6+MezLzpsteV+Qq6zGM='.\"}"
+ },
+ "crawlforge@https://api.crawlforge.net": {
+  "url": "https://api.crawlforge.net/v1/scrape",
+  "err": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+ },
+ "crawlforge-get@https://api.crawlforge.net": {
+  "err": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+ },
+ "crawlforge@https://api.crawlforge.dev": {
+  "url": "https://api.crawlforge.dev/v1/scrape",
+  "err": "<urlopen error [Errno -2] Name or service not known>"
+ },
+ "crawlforge-get@https://api.crawlforge.dev": {
+  "err": "<urlopen error [Errno -2] Name or service not known>"
+ },
+ "crawlforge@https://crawlforge.net/api": {
+  "url": "https://crawlforge.net/api/v1/scrape",
+  "err": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+ },
+ "crawlforge-get@https://crawlforge.net/api": {
+  "err": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+ },
+ "browserbase-sessions": {
+  "url": "https://www.browserbase.com/v1/sessions",
+  "status": 201,
+  "body_head": "{\"id\":\"0bf8ea3f-2d22-4bc1-953e-e22b2d918819\",\"avg_cpu_usage\":null,\"context_id\":null,\"endedAt\":null,\"expiresAt\":\"2026-10-21T09:49:39.862+00:00\",\"keep_alive\":false,\"memory_usage\":null,\"projectId\":\"4531def6-9b1b-4627-9312-5a1ce4e8c49c\",\"proxyBytes\":0,\"region\":\"us-west-2\",\"startedAt\":\"2026-10-21T09:44:39.862+00:00\",\"status\":\"RUNNING\",\"createdAt\":\"2026-10-21T09:44:39.865903+00:00\",\"is_idle\":true,\"taskId\":null,\"updated_at\":\"2026-10-21T09:44:39.865903+00:00\",\"viewport_height\":null,\"viewport_width\":null,\"connectUrl\":\"wss://connect.usw2.browserbase.com/?signingKey=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.1sbH987wtqM8a46C3PYqCPz2Tpy2ehOWhHuWkUgnfchC8jAlGHOaAw.hxzEMQiT2o9f1MQ2.0w0Iy2-dp8m9y4rU3CN1FkdUjIg6YFiOp5mHIHLQ_nF7JNN1w-s1nOUE8YxOvNPgNIr9lIrIj4v3b7a0sBVzvtR1Q2Ac4OAgyGTyV9RI_HBQ0fGpkCKDluE44DlpoEIgeT8LwlgxLYPbISk666WxV-14vHV1xnsz07Ic1ghLGYaKzoQCuP49Z8J_RMCROtj1uNkNBOR9y-25rgaMZEnDWeaXnqlDlTaNrG5hrUU5cfEpSo0A8BHaILUD1vqF3rs6P1cHs4WAc-zmITxONgC0m8dlvWTM3RgZ1sSXRctPOu7x1PUV0gyxm1qxoXK0NH4MMbL6IWPchmgBdzvmecyqLIAjEBnN1Lqy7jAwU08cAmglLIW4z9x5YiyJmIO3etZQ4toSSeMHd4BQAYBfcsCTrfEQIswNnUrKwVNNlnSf8kYot-gvKh7gN1Y-MDxwVg.8okDgNgPOwxT6q-CAaS4QA\",\"seleniumRemoteUrl\":\"http://connect.usw2.browserbase.com/webdriver\",\"signingKey\":\"eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.1sbH987wtqM8a46C3PYqCPz2Tpy2ehOWhHuWkUgnfchC8jAlGHOaAw.hxzEMQiT2o9f1MQ2.0w0Iy2-dp8m9y4rU3CN1FkdUjIg6YFiOp5mHIHLQ_nF7JNN1w-s1nOUE8YxOvNPgNIr9lIrIj4v3b7a0sBVzvtR1Q2Ac4OAgyGTyV9RI_HBQ0fGpkCKDluE44DlpoEIgeT8LwlgxLYPbISk666WxV-14v"
+ }
+}

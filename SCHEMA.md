@@ -1,6 +1,6 @@
 # SCHEMA — `bangla_slang_master.csv`
 
-One row = one slang term/phrase. 19 columns, UTF-8, comma-separated, quoted.
+One row = one slang term/phrase. 20 columns, UTF-8, comma-separated, quoted.
 
 | # | Column | Type | Description |
 |---|--------|------|-------------|
@@ -18,7 +18,8 @@ One row = one slang term/phrase. 19 columns, UTF-8, comma-separated, quoted.
 | 12 | `usage_example_bn` | string | Bengali usage example (bn-Wiktionary `usex` templates; gold entries) |
 | 13 | `usage_example_en` | string | English rendering of the example |
 | 14 | `era` | enum | `classic` (pre-internet) · `modern` (2000s+) — gold tier only |
-| 15 | `tags` | string | Pipe-separated free tags: sense labels (`slang`, `vulgar`, `derogatory`, `dialectal`, `colloquial`…), cross-source notes (`also:github_dataset`), topic flags |
+| 15 | `popularity` | int 1–5 or empty | estimated usage frequency in current social-media/urban speech (gold entries only; 5 = everyday viral, 1 = niche) |
+| `tags` | string | Pipe-separated free tags: sense labels (`slang`, `vulgar`, `derogatory`, `dialectal`, `colloquial`…), cross-source notes (`also:github_dataset`), topic flags |
 | 16 | `confidence` | enum | `high` (gold) · `medium` (dictionary / structured lexicon) |
 | 17 | `tier` | int | 1 = gold · 2 = Wiktionary · 3 = community lexicon lists (tier 4 auto-extracts live in `data/candidates/`) |
 | 18 | `source_type` | string | `gold_curated` · `wiktionary_en` · `wiktionary_bn` · `nirmol_github` · `deshi_slang_github` · `hf_chittagong_vulgar` · `web_lexicon_list` |

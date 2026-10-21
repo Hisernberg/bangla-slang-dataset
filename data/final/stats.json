@@ -1,34 +1,58 @@
 {
- "total": 2100,
+ "total": 3142,
  "by_category": {
-  "campus_student": 15,
-  "colloquial_dialectal": 125,
-  "entertainment_media": 9,
-  "internet_social": 18,
-  "profanity_curses": 1048,
+  "banglish_codemixed": 79,
+  "campus_student": 52,
+  "colloquial_dialectal": 557,
+  "cricket_sports_gaming": 36,
+  "entertainment_media": 38,
+  "exclamations_interjections": 59,
+  "idioms_figurative": 45,
+  "internet_social": 77,
+  "old_school_retro": 33,
+  "profanity_curses": 1073,
   "regional_chattogram": 744,
-  "regional_dhaka": 101,
-  "regional_sylhet": 14,
-  "relationships_emotions": 13,
-  "social_political": 13
+  "regional_dhaka": 123,
+  "regional_sylhet": 61,
+  "relationships_emotions": 63,
+  "social_political": 51,
+  "street_transport_market": 51
  },
  "by_tier": {
-  "1": 150,
+  "1": 731,
   "2": 194,
-  "3": 1756
+  "3": 2217
  },
  "by_source_type": {
   "gold_curated": 150,
+  "gold_curated_v2": 581,
   "wiktionary_bn": 70,
   "hf_chittagong_vulgar": 731,
   "wiktionary_en": 124,
+  "kuntalojha_slangs_mit": 174,
   "web_lexicon_list": 155,
+  "hf_dialect_norm_apache2": 287,
   "nirmol_github": 802,
   "deshi_slang_github": 68
  },
- "tier4_candidates": 75,
- "with_meaning_en": 1163,
- "with_meaning_bn": 235,
- "with_romanization": 2100,
- "with_example": 62
+ "by_region": {
+  "Bangladesh": 1124,
+  "Chattogram": 744,
+  "Barishal": 287,
+  "Bengal": 174,
+  "Nationwide (urban, spoken)": 78,
+  "Dhaka (Old Dhaka / Kutti)": 70,
+  "Sylhet": 61,
+  "Nationwide (urban, social media)": 59,
+  "Nationwide (spoken)": 59,
+  "Dhaka (Old Dhaka / urban street)": 53,
+  "Nationwide (streets, buses, rickshaws, bazaars)": 51,
+  "Nationwide (urban youth)": 45
+ },
+ "tier4_candidates": 9628,
+ "with_meaning_en": 2033,
+ "with_meaning_bn": 820,
+ "with_romanization": 3142,
+ "with_example": 943,
+ "with_popularity": 599
 }
